@@ -78,7 +78,7 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-<h3>Artigos:/h3>
+<h3>Artigos:</h3>
 <ul>
   <li><a href="https://www.linkedin.com/pulse/vis%25C3%25A3o-de-1935-que-antecipou-o-futuro-caio-comitre-rossi--gachf/?trackingId=nODnWpxtR%2FKl4RAH7DE1YA%3D%3D"><b>A Visão de 1935 Que Antecipou o Futuro</b></a><br/><i>Stanley G. Weinbaum não é um nome que você vê em manchetes hoje, mas em 1935 ele fez algo impressionante</i></li>
 </ul>
