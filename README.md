@@ -1,21 +1,5 @@
 ##  👋
 
-<!--
-**caioross/caioross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
 <p>
 	<img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 	<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -44,15 +28,6 @@ Here are some ideas to get you started:
 </p>
 
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁</b></td>
-      <td><b>⭐</b></td>
-      <td><b>📚</b></td>
-      <td><b>🛎</b></td>
-      <td><b>📬</b></td>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td><a href="https://github.com/caioross/Curso_Python-NV01"><b>Curso_Python-NV01</b></a></td>
