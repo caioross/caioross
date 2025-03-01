@@ -1,5 +1,9 @@
 ##  👋
 
+
+
+<details>
+  <summary>Stacks:</summary>
 <p>
 	<img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 	<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -26,7 +30,7 @@
 	<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 	<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
-
+</details>
 <details>
   <summary>Projetos:</summary>
 
@@ -169,6 +173,20 @@
 <ul>
   <li><a href="https://www.linkedin.com/pulse/do-jogo-%25C3%25A0-mesa-de-opera%25C3%25A7%25C3%25A3o-caio-rossi/?trackingId=ho39zVmVQOaq32Jm5XDAug%3D%3D"><b>Do jogo à mesa de operação</b></a><br/><i>Na próxima vez que você assistir a um filme ou jogar um game, lembre-se: seu momento de lazer pode estar plantando a semente de uma revolução tecnológica.</i></li>
 </ul>
+</details>
+
+<details>
+  <summary>Equipamentos:</summary>
+	<ul>
+		<li>Notebook Lenovo Legion 5 AMD Ryzen 7 32GBRAM 2TBSSD RTX3050</li>
+		<li>Meta Quest 3 256GB</li>
+		<li>Expanscape Aurora 7 AMD Ryzen 9 128GBRAM 8TBSSD 2xRTX4060</li>
+		<li>Impressora 3D Kossel Anycubic</li>
+		<li>Arduino Mega R4 WIFI</li>
+		<li>Raspberry PI4</li>
+		<li>Samsung Galaxy Watch 2</li>
+		<li>Rokoko Haptic Smartsuit Pro II </li>
+	</ul>
 </details>
 
 <a href="https://www.linkedin.com/in/caiorossi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
