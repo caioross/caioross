@@ -27,6 +27,9 @@
 	<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
+<details>
+  <summary>Projetos</summary>
+
 <table>
   <tbody>
     <tr>
@@ -95,7 +98,9 @@
   </tbody>
 </table>
 
-<h3>Artigos:</h3>
+</details>
+<details>
+  <summary>Artigos:</summary>
 <ul>
   <li><a href="https://www.linkedin.com/pulse/vis%25C3%25A3o-de-1935-que-antecipou-o-futuro-caio-comitre-rossi--gachf/?trackingId=nODnWpxtR%2FKl4RAH7DE1YA%3D%3D"><b>A Visão de 1935 Que Antecipou o Futuro</b></a><br/><i>Stanley G. Weinbaum não é um nome que você vê em manchetes hoje, mas em 1935 ele fez algo impressionante</i></li>
 </ul>
@@ -155,6 +160,7 @@
 <ul>
   <li><a href="https://www.linkedin.com/pulse/do-jogo-%25C3%25A0-mesa-de-opera%25C3%25A7%25C3%25A3o-caio-rossi/?trackingId=ho39zVmVQOaq32Jm5XDAug%3D%3D"><b>Do jogo à mesa de operação</b></a><br/><i>Na próxima vez que você assistir a um filme ou jogar um game, lembre-se: seu momento de lazer pode estar plantando a semente de uma revolução tecnológica.</i></li>
 </ul>
+</details>
 
 <a href="https://www.linkedin.com/in/caiorossi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/caioross/caioross?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/caioross/caioross?style=flat-square&labelColor=343b41"/></p>
