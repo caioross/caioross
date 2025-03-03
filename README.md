@@ -4,7 +4,7 @@
 
 <details>
   <summary>Stacks:</summary>
-	<h4>Linguagens de Programação</h4>
+	<h4>Linguagens de Programação:</h4>
 		<p>
 			<img align="center" alt="Lua" <img alt="Static Badge" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white">
 			<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
@@ -12,9 +12,8 @@
 			<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 			<img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 			<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-		
 		</p>
-			<h4>Frameworks e Bibliotecas</h4>
+			<h4>Frameworks e Bibliotecas:</h4>
 			<img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
 			<img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 			<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
@@ -23,33 +22,29 @@
 			<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
 			<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
 		<p>
-		
 		</p>
-			<h4>Bancos de Dados</h4>
+			<h4>Bancos de Dados:</h4>
 			<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
 			<img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E">]
 			<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 		<p>
-		
 		</p>
-			<h4>Ferramentas de Desenvolvimento</h4>
+			<h4>Ferramentas de Desenvolvimento:</h4>
 			<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 			<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
 			<img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 		<p>
-		
 		</p>
-			<h4>Sistemas Operacionais</h4>
+			<h4>Sistemas Operacionais:</h4>
 		<p>
 			<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
 			<img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 		</p>
-			<h4>Plataformas e Serviços em Nuvem</h4>
+			<h4>Plataformas e Serviços em Nuvem:</h4>
 		<p>
 			<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-		
 		</p>
-			<h4>Tecnologias Frontend</h4>
+			<h4>Tecnologias Frontend:</h4>
 		<p>
 			<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 			<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
