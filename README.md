@@ -94,7 +94,7 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
     </tr>
 
-
+</details>
 <details>
   <summary>Artigos:</summary>
 <ul>
