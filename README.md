@@ -78,21 +78,37 @@
 <table>
   <tbody>
     <tr>
-      <td><a href="https://github.com/caioross/Curso_Python-NV01"><b>Curso_Python-NV01</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
-<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+	<td><a href="https://github.com/caioross/Curso_Python-NV01"><b>Curso_Python-NV01</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_Python-NV01?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
     </tr>
-<tr>
-      <td><a href="https://github.com/caioross/Curso_UnrealEngine5-VR"><b>Curso Unreal Engine 5</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
-<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+   <tr>
+	<td><a href="https://github.com/caioross/Curso_Python-NV02-AnaliseDeDados"><b>Curso_Python-NV02-AnaliseDeDados</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_Python-NV02-AnaliseDeDados?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_Python-NV02-AnaliseDeDados?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_Python-NV02-AnaliseDeDados?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_Python-NV02-AnaliseDeDados?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
     </tr>
+    <tr>
+	<td><a href="https://github.com/caioross/Curso_Python-NV03-DominioCompleto"><b>Curso_Python-NV03-DominioCompleto</b></a></td>
+	<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_Python-NV03-DominioCompleto?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_Python-NV03-DominioCompleto?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_Python-NV03-DominioCompleto?style=flat-square&labelColor=343b41"/></td>
+	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_Python-NV03-DominioCompleto?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+    </tr>
+	<tr>
+		<td><a href="https://github.com/caioross/Curso_UnrealEngine5-VR"><b>Curso Unreal Engine 5</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_UnrealEngine5-VR?style=flat-square&labelColor=343b41"/></td>
+		<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+	</tr>
 <tr>
       <td><a href="https://github.com/caioross/Cursos-Certificados-Free"><b>Cursos & Certificados Free</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Cursos-Certificados-Free?style=flat-square&labelColor=343b41"/></td>
@@ -117,6 +133,38 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
 	<td> Livre </td>
     </tr>
+   	<tr>
+		<td><a href="https://github.com/caioross/Curso_SQL-NV01"><b>Curso_SQL-NV01</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_SQL-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_SQL-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_SQL-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_SQL-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+	</tr>
+ 	<tr>
+		<td><a href="https://github.com/caioross/Curso_PHP-NV01"><b>Curso_PHP-NV01</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_PHP-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_PHP-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_PHP-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_PHP-NV01?style=flat-square&labelColor=343b41"/></td>
+		<td> Livre </td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/caioross/Curso_PHP-NV02"><b>Curso_PHP-NV02</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_PHP-NV02?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_PHP-NV02?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_PHP-NV02?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_PHP-NV02?style=flat-square&labelColor=343b41"/></td>
+		<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+	</tr>
+	<tr>
+		<td><a href="https://github.com/caioross/Curso_Arduino"><b>Curso_Arduino</b></a></td>
+		<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+		<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+		<td> Livre </td>
+	</tr>
   </tbody>
 </table>
 
