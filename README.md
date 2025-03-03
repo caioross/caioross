@@ -75,7 +75,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/EstacaoMeteorologica?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/EstacaoMeteorologica?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/EstacaoMeteorologica?style=flat-square&labelColor=343b41"/></td>
-	<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+	<td> Livre </td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/ShoppingTrem"><b>ShoppingTrem</b></a></td>
@@ -91,7 +91,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/GhostHands-VR?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/GhostHands-VR?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/GhostHands-VR?style=flat-square&labelColor=343b41"/></td>
-	<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
+	<td> Livre </td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/PixTracker"><b>PixTracker</b></a></td>
