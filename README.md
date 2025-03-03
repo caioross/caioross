@@ -95,6 +95,11 @@
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
+			<tr>
+				<td><a href="https://github.com/caio-rossi/Curso_GithubParaDevs"><b>GITHUB para Devs</b></a></td>
+				<td>Acesso somente para membros</td>
+				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+			</tr>
 		</table>
 	<h4>Livres:</h4>
 		<table>
