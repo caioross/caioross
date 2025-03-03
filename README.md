@@ -220,7 +220,6 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
-	
 	<tr>
       <td><a href="https://github.com/caioross/PixTracker"><b>FeedLeaf</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
@@ -275,10 +274,7 @@
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
 	  <td> Acesso Livre </td>
-    </tr>
-	
-	
-	
+    </tr>	
 </table>
 </details>
 <details>
