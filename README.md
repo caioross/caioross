@@ -95,11 +95,6 @@
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
-			<tr>
-				<td><a href="https://github.com/caio-rossi/Curso_GithubParaDevs"><b>GITHUB para Devs</b></a></td>
-				<td>Acesso somente para membros</td>
-				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
-			</tr>
 		</table>
 	<h4>Livres:</h4>
 		<table>
@@ -116,6 +111,13 @@
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
+			</tr>
+			<tr>
+				<td><a href="https://github.com/caio-rossi/Curso_github"><b>Github para Devs</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/caio-rossi/Curso_github?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/caio-rossi/Curso_github?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/caio-rossi/Curso_github?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caio-rossi/Curso_github?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/caio-rossi/Curso_Arduino"><b>Programação para Arduino</b></a></td>
