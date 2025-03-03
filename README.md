@@ -71,27 +71,27 @@
 	<h4>Particulares:</h4>
 		<table>
 			<tr>
-				<td><a href="https://github.com/orgs/caio-rossi/Curso_HTML-CSS-JScript"><b>Unreal Engine 5 para VR</b></a></td>
+				<td><a href="https://github.com/caio-rossi/Curso_UnrealEngine5-VR"><b>Unreal Engine 5 para VR</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python Dominio Completo</b></a></td>
+				<td><a href="https://github.com/caio-rossi/Curso_Python-NV03-DominioCompleto"><b>Python Dominio Completo</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PHP NV-01</b></a></td>
+				<td><a href="https://github.com/caio-rossi/Curso_PHP-NV01"><b>PHP NV-01</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PHP NV-02</b></a></td>
+				<td><a href="https://github.com/caio-rossi/Curso_PHP-NV02"><b>PHP NV-02</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>SQL Dominio Completo</b></a></td>
+				<td><a href="https://github.com/caio-rossi/Curso_SQL-DominioCompleto"><b>SQL Dominio Completo</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
@@ -99,43 +99,43 @@
 	<h4>Livres:</h4>
 		<table>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>HTML5 CSS3 & JScript</b></a></td>
-				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
+				<td><a href="https://github.com/caio-rossi/Curso_HTML-CSS-JScript"><b>HTML5 CSS3 & JScript</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/caio-rossi/Curso_HTML-CSS-JScript?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/caio-rossi/Curso_HTML-CSS-JScript?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/caio-rossi/Curso_HTML-CSS-JScript?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caio-rossi/Curso_HTML-CSS-JScript?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Assembly</b></a></td>
-				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
+				<td><a href="https://github.com/caio-rossi/Curso_Assembly"><b>Assembly</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caio-rossi/Curso_Assembly?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Programação para Arduino</b></a></td>
-				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
-				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
+				<td><a href="https://github.com/caio-rossi/Curso_Arduino"><b>Programação para Arduino</b></a></td>
+				<td><img alt="Stars" src="https://img.shields.io/github/stars/caio-rossi/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Forks" src="https://img.shields.io/github/forks/caio-rossi/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Issues" src="https://img.shields.io/github/issues/caio-rossi/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
+				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caio-rossi/Curso_Arduino?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
 	<h4>Clarify:</h4>
 		<table>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python NV-01</b></a></td>
+				<td><a href="https://github.com/Clarify-Cursos/Curso_Python-NV01"><b>Python NV-01</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python NV-02 - Analise de Dados</b></a></td>
+				<td><a href="https://github.com/Clarify-Cursos/Curso_Python-NV02-AnaliseDeDados"><b>Python NV-02 - Analise de Dados</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>SQL NV-01</b></a></td>
+				<td><a href="https://github.com/Clarify-Cursos/Curso_SQL-NV01"><b>SQL NV-01</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Power BI</b></a></td>
+				<td><a href="https://github.com/Clarify-Cursos/Curso_PowerBI"><b>Power BI</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 		</table>
