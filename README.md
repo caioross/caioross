@@ -54,8 +54,7 @@
 
 <details>
   <summary>Cursos:</summary>
-	<details>
-		<summary>Particulares:</summary>
+	<h4>Particulares:</h4>
 		<table>
 			<tr>
 				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python 01</b></a></td>
@@ -65,9 +64,7 @@
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
-	</details>
-	<details>
-		<summary>Livres:</summary>
+	<h4>Livres:</h4>
 		<table>
 			<tr>
 				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python 01</b></a></td>
@@ -77,9 +74,7 @@
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
-	</details>
-	<details>
-		<summary>Clarify:</summary>
+	<h4>Clarify:</h4>
 		<table>
 			<tr>
 				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python 01</b></a></td>
@@ -89,7 +84,6 @@
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
-	</details>
 </details>
 
 
