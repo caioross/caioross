@@ -173,10 +173,10 @@
     </tr>
 <tr>
       <td><a href="https://github.com/caioross/Xornal"><b>Xornal</b></a></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
 	  <td> Acesso Livre </td></tr>
 <tr>
       <td><a href="https://github.com/caioross/GeladeiraInteligente"><b>Geladeira Inteligente</b></a></td>
