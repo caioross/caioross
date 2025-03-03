@@ -53,15 +53,6 @@
 		<p>
 			<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 			<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-		
-		</p>
-			<h4>Tecnologias BackEnd</h4>
-		<p>
-		
-		</p>
-			<h4>Computação Espacial</h4>
-		<p>
-		
 		</p>
 </details>
 
@@ -79,7 +70,7 @@
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
-	<details>
+	</details>
 	<details>
 		<summary>Livres:</summary>
 		<table>
@@ -91,7 +82,7 @@
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
-	<details>
+	</details>
 	<details>
 		<summary>Clarify:</summary>
 		<table>
@@ -103,7 +94,7 @@
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 		</table>
-	<details>
+	</details>
 </details>
 
 
@@ -113,7 +104,6 @@
   <summary>Projetos:</summary>
 
 <table>
-  <tbody>
 	  <tr>
       <td><a href="https://github.com/caioross/NostalgiaGPT"><b>NostalgiaGPT</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
