@@ -81,12 +81,12 @@
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PH NV01</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PHP NV-01</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PHP NV02</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PHP NV-02</b></a></td>
 				<td>Acesso somente para membros</td>
 				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
@@ -123,15 +123,15 @@
 	<h4>Clarify:</h4>
 		<table>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python 01</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python NV-01</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python 02 - Analise de Dados</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python NV-02 - Analise de Dados</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>SQL 01</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>SQL NV-01</b></a></td>
 				<td>Acesso somente para Alunos</td>
 			</tr>
 			<tr>
