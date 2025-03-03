@@ -71,35 +71,35 @@
 	<h4>Particulares:</h4>
 		<table>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_UnrealEngine5-VR</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Unreal Engine 5 para VR</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_Python-NV03-DominioCompleto</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python Dominio Completo</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_PHP-NV01</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PH NV01</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_PHP-NV02</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>PHP NV02</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>SQL_DominioCompleto</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>SQL Dominio Completo</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
@@ -109,21 +109,21 @@
 	<h4>Livres:</h4>
 		<table>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_HTML-CSS-JScript</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>HTML5 CSS3 & JScript</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_Assembly</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Assembly</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 			</tr>
 			<tr>
-				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Curso_Arduino</b></a></td>
+				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Programação para Arduino</b></a></td>
 				<td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
 				<td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
