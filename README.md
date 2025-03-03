@@ -165,18 +165,19 @@
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/WeeDoo"><b>WeeDoo</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td> 
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 <tr>
       <td><a href="https://github.com/caioross/Xornal"><b>Xornal</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Xornal?style=flat-square&labelColor=343b41"/></td><td> Acesso Livre </td></tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+	  <td> Acesso Livre </td></tr>
 <tr>
       <td><a href="https://github.com/caioross/GeladeiraInteligente"><b>Geladeira Inteligente</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
@@ -196,10 +197,10 @@
     </tr>
     <tr>
       <td><a href="https://github.com/Abre-Mundos/ShoppingTrem"><b>ShoppingTrem</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abre-Mundos/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Abre-Mundos/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Abre-Mundos/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Abre-Mundos/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
     <tr>
@@ -212,26 +213,26 @@
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/PixTracker"><b>PixTracker</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/caioross/FeedLeaf"><b>FeedLeaf</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/FeedLeaf?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/FeedLeaf?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/FeedLeaf?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/FeedLeaf?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/caioross/OlhoDoIzidoro"><b>OlhoDoIzidoro</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/OlhoDoIzidoro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/OlhoDoIzidoro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/OlhoDoIzidoro?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/OlhoDoIzidoro?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 	<tr>
@@ -244,25 +245,26 @@
     </tr>
 	<tr>
       <td><a href="https://github.com/Abre-Mundos/VR-RavinasCriaturas"><b>VR Ravinas e Criaturas</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abre-Mundos/VR-RavinasCriaturas?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Abre-Mundos/VR-RavinasCriaturas?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Abre-Mundos/VR-RavinasCriaturas?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Abre-Mundos/VR-RavinasCriaturas?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/Abre-Mundos/VR-DigitalTwin_Soccer"><b>VR Digital Twin</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abre-Mundos/VR-DigitalTwin_Soccer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Abre-Mundos/VR-DigitalTwin_Soccer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Abre-Mundos/VR-DigitalTwin_Soccer?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Abre-Mundos/VR-DigitalTwin_Soccer?style=flat-square&labelColor=343b41"/></td><td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 	<tr>
       <td><a href="https://github.com/Abre-Mundos/VR-InsideMe"><b>VR InsideMe</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/Abre-Mundos/VR-InsideMe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/Abre-Mundos/VR-InsideMe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/Abre-Mundos/VR-InsideMe?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Abre-Mundos/VR-InsideMe?style=flat-square&labelColor=343b41"/></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
 	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 	<tr>
