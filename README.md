@@ -275,6 +275,14 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
 	  <td> Acesso Livre </td>
     </tr>	
+    <tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>CrowdCounter</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td> Acesso Livre </td>
+    </tr>
 </table>
 </details>
 <details>
