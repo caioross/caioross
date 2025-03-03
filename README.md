@@ -161,6 +161,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
+	  <td> Acesso Livre </td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/WeeDoo"><b>WeeDoo</b></a></td>
@@ -168,6 +169,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td> 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 <tr>
       <td><a href="https://github.com/caioross/Xornal"><b>Xornal</b></a></td>
@@ -175,6 +177,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
 <tr>
       <td><a href="https://github.com/caioross/GeladeiraInteligente"><b>Geladeira Inteligente</b></a></td>
@@ -182,7 +185,8 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
-    </tr>
+    <td> Acesso Livre </td>
+	</tr>
 
 <tr>
       <td><a href="https://github.com/caioross/EstacaoMeteorologica"><b>EstacaoMeteorologica</b></a></td>
@@ -190,6 +194,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/EstacaoMeteorologica?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/EstacaoMeteorologica?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/EstacaoMeteorologica?style=flat-square&labelColor=343b41"/></td>
+	  <td> Acesso Livre </td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/ShoppingTrem"><b>ShoppingTrem</b></a></td>
@@ -197,6 +202,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/ShoppingTrem?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/GhostHands-VR"><b>GhostHands-VR</b></a></td>
@@ -204,6 +210,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/GhostHands-VR?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/GhostHands-VR?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/GhostHands-VR?style=flat-square&labelColor=343b41"/></td>
+	  <td> Acesso Livre </td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/PixTracker"><b>PixTracker</b></a></td>
@@ -211,7 +218,67 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
     </tr>
+	
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>FeedLeaf</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>OlhoDoIzidoro</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>Impressora 3D BRCheap</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td> Acesso Livre </td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>VR Ravinas e Criaturas</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>VR Digital Twin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td><td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>VR InsideMe</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td><a href="https://github.com/sponsors/caioross"><img align="center" alt="sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/caioross/PixTracker"><b>Ollama UE5 Plugin</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/PixTracker?style=flat-square&labelColor=343b41"/></td>
+	  <td> Acesso Livre </td>
+    </tr>
+	
+	
+	
 </table>
 </details>
 <details>
