@@ -156,7 +156,7 @@
 
 <table>
 	<tr>
-      <td><a href="https://github.com/caioross/365Dias_Python"><b>NostalgiaGPT</b></a></td>
+      <td><a href="https://github.com/caioross/365Dias_Python"><b>365 Dias de Python</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/caioross/365Dias_Python?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/365Dias_Python?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/365Dias_Python?style=flat-square&labelColor=343b41"/></td>
