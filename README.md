@@ -73,7 +73,7 @@
 			<tr>
 				<td><a href="https://github.com/orgs/caio-rossi/Curso_HTML-CSS-JScript"><b>Unreal Engine 5 para VR</b></a></td>
 				<td>Acesso somente para membros</td>
-				<td></td>
+				<td><a href="https://github.com/sponsors/caioross"><img align="center" alt="CSS" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a></td>
 			</tr>
 			<tr>
 				<td><a href="https://github.com/caioross/NostalgiaGPT"><b>Python Dominio Completo</b></a></td>
