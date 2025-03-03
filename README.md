@@ -42,6 +42,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/NostalgiaGPT?style=flat-square&labelColor=343b41"/></td>
+		  <td> Livre </td>
     </tr>
     <tr>
       <td><a href="https://github.com/caioross/WeeDoo"><b>WeeDoo</b></a></td>
@@ -49,6 +50,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td> 
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/WeeDoo?style=flat-square&labelColor=343b41"/></td>
+ <td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
     </tr>
 <tr>
       <td><a href="https://github.com/caioross/Xornal"><b>Xornal</b></a></td>
@@ -56,6 +58,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/Xornal?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/Xornalo?style=flat-square&labelColor=343b41"/></td>
+	<td><a href="https://github.com/sponsors/caioross"><img alt="Sponsors" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a></td>
     </tr>
 <tr>
       <td><a href="https://github.com/caioross/GeladeiraInteligente"><b>Geladeira Inteligente</b></a></td>
@@ -63,6 +66,7 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/caioross/GeladeiraInteligente?style=flat-square&labelColor=343b41"/></td>
+	<td> Livre </td>
     </tr>
   </tbody>
 </table>
