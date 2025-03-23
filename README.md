@@ -356,20 +356,6 @@
 </ul>
 </details>
 
-<details>
-  <summary>Equipamentos:</summary>
-	<ul>
-		<li>Notebook Lenovo Legion 5 AMD Ryzen 7 32GBRAM 2TBSSD RTX3050</li>
-		<li>Meta Quest 3 256GB</li>
-		<li>Expanscape Aurora 7 AMD Ryzen 9 128GBRAM 8TBSSD 2xRTX4060</li>
-		<li>Impressora 3D Kossel Anycubic</li>
-		<li>Arduino Mega R4 WIFI</li>
-		<li>Raspberry PI4</li>
-		<li>Samsung Galaxy Watch 2</li>
-		<li>Rokoko Haptic Smartsuit Pro II </li>
-	</ul>
-</details>
-
 <a href="https://www.linkedin.com/in/caiorossi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <p align="center"><img alt="Stars" src="https://img.shields.io/github/stars/caioross/caioross?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/caioross/caioross?style=flat-square&labelColor=343b41"/></p>
 
