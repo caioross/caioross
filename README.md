@@ -5,65 +5,7 @@
 
 <details>
   <summary>Stacks:</summary>
-	<h4>Linguagens:</h4>
-		<p>
-			<img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-			<img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-			<img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-			<img align="center" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-			<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-			<img align="center" alt="Assembly" src="https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white">
-			<img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-			<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-			<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff">
-		</p>
-			<h4>Frameworks e Bibliotecas:</h4>
-		<p>
-			<img align="center" alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
-			<img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-			<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-			<img align="center" alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
-			<img align="center" alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-			<img align="center" alt="Bootstrap" src="https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117">
-			<img align="center" alt="Anaconda" src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white">
-			<img align="center" alt="CUDA" src="https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green">
-			<img align="center" alt="PyTest" src="https://img.shields.io/badge/pytest-%23ffffff.svg?style=for-the-badge&logo=pytest&logoColor=2f9fe3">
-		</p>
-			<h4>Bancos de Dados:</h4>
-		<p>
-			<img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
-			<img align="center" alt="SQLite" src="https://img.shields.io/badge/SQLite-000?style=for-the-badge&logo=sqlite&logoColor=07405E">]
-			<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-		</p>
-			<h4>Ferramentas de Desenvolvimento:</h4>
-		<p>
-			<img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-			<img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white">
-			<img align="center" alt="Vscode" src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-			<img align="center" alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black">
-			<img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
-			<img align="center" alt="Power BI" src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-		</p>
-			<h4>Sistemas Operacionais:</h4>
-		<p>
-			<img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0">
-			<img align="center" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-		</p>
-			<h4>Plataformas e Serviços em Nuvem e Servidor:</h4>
-		<p>
-			<img align="center" alt="AWS" src="https://img.shields.io/badge/AWS-000.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
-			<img align="center" alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white">
-			<img align="center" alt="Hostinger" src="https://img.shields.io/badge/Hostinger-673DE6?logo=hostinger&logoColor=fff">
-		</p>
-			<h4>Computação Espacial</h4>
-		<p>
-			<img align="center" alt="Sketchup" src="https://img.shields.io/badge/SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white">
-			<img align="center" alt="Unreal Engine" src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white">
-			<img align="center" alt="Meta" src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white">
-			<img align="center" alt="Blender" src="https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white">
-			<img align="center" alt="SteamVR" src="https://img.shields.io/badge/SteamVR-%23232F3E.svg?logo=steam&logoColor=white">
-			<img align="center" alt="Oculus" src="https://img.shields.io/badge/Oculus-%231A1A1A.svg?logo=oculus&logoColor=white">		
-		</p>
+[![My Skills](https://skillicons.dev/icons?i=ae,anaconda,androidstudio,arduino,au,aws,azure,bash,blender,bootstrap,c,cs,cpp,cloudflare,codepen,css,discord,bots,django,docker,fastapi,flask,gcp,git,github,githubactions,gitlab,gmail,go,heroku,html,ai,java,js,jenkins,jquery,kubernetes,linkedin,lua,md,mint,mongodb,nginx,nodejs,notion,npm,php,pnpm,powershell,pycharm,py,pytorch,redis,regex,replit,sqlite,stackoverflow,selenium,svg,tensorflow,unreal,vim,visualstudio,vscode,vue,webpack,windows,workers&perline=15)](https://skillicons.dev)
 </details>
 
 
