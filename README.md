@@ -1,6 +1,6 @@
-##  ♥ CODE :  That's My Way since 87  ♥
+##  ♥ CODE :  That's My Way since 87  ♥  ![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=caioross&color=blue&style=flat) 
 
-![GitHub Profile Views Counter](https://komarev.com/ghpvc/?username=caioross&color=blue&style=flat) 
+
 
 
 <details>
