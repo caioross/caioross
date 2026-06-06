@@ -43,15 +43,15 @@ fazendo:    apps, jogos, SaaS, sites, automações e produtos — do conceito ao
 | Projeto | O que é | Demo |
 |---|---|---|
 | 🐍 **[python365](https://github.com/caioross/python365)** | 365 dias de Python: um script por dia + IDE no navegador (Pyodide) | [python365.vercel.app](https://python365.vercel.app) |
-| 🌌 **[CodeOrigins](https://github.com/caioross/CodeOrigins)** | Mapa estelar 3D das linguagens de programação, suas origens e linhagens | [codeorigins.space](https://codeorigins.space) |
-| ⚛️ **[cudernalis](https://github.com/caioross/cudernalis)** | Simulador 3D interativo dos orbitais dos 118 elementos, com física real | — |
+| 🌌 **[CodeOrigins](https://github.com/caioross/CodeOrigins)** | Mapa estelar 3D das linguagens de programação, suas origens e linhagens | [codeorigins.vercel.app](https://codeorigins.vercel.app) |
+| ⚛️ **[cudernalis](https://github.com/caioross/cudernalis)** | Simulador 3D interativo dos orbitais dos 118 elementos, com física real | [cudernalis.vercel.app](https://cudernalis.vercel.app) |
 | 🎙️ **[Laguna Translate](https://github.com/caioross/Laguna_Translate)** | Tradução de voz PT↔EN em tempo real, 100% local (Whisper + Argos + Piper) | — |
 | 🤖 **[Trebuchet](https://github.com/caioross/Trebuchet)** | Framework de agentes de IA autônomos para hardware local (LLM + RAG + visão) | — |
 | 🕰️ **[NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)** | Converse com 40+ personalidades históricas em 1ª pessoa | — |
 
 </div>
 
-> 🔒 E mais um ecossistema em desenvolvimento (boa parte privado por enquanto): **AulaLogger** (gravação + transcrição de aulas on-device), **LinkaPet** (prontuário digital de pets), **SkillDepot** (marketplace de skills para agentes de IA), **Astral Forge** & **ScienceAdventure** (jogos) e a stack **docker-comfyui** de IA self-hosted.
+> 🔒 E mais um ecossistema em desenvolvimento (boa parte privado por enquanto): **AulaLogger** (gravação + transcrição de aulas on-device), **LinkaPet** (prontuário digital de pets), **SkillDepot** ([skilldepot.dev](https://skilldepot.dev) — marketplace de skills para agentes de IA), **Astral Forge** & **ScienceAdventure** (jogos) e a stack **docker-comfyui** de IA self-hosted.
 
 ---
 
