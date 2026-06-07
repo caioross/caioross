@@ -60,24 +60,14 @@ const caio = {
 | **PromptMeter** | Extensão Chrome que dá nota e dica ao seu prompt em tempo real | [⟨code⟩](https://github.com/caioross/PromptMeter) · [🌐 site](https://promptmeter-pi.vercel.app) |
 | **Clippy** | Companheiro de desktop com IA 100% local (wake word + STT + LLM + TTS) | [⟨code⟩](https://github.com/caioross/Clippy) · [🌐 site](https://clippy-beige.vercel.app) |
 | **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) · [🌐 site](https://transcribid.vercel.app) |
-| **Trebuchet** | Framework de agentes de IA autônomos para hardware local | [⟨code⟩](https://github.com/caioross/Trebuchet) |
-| **AssetsMaker** | Pipeline local de geração de assets de jogo (Claude/Ollama + ComfyUI) | [⟨code⟩](https://github.com/caioross/AssetsMaker) |
 | **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) |
 | **Astral Forge** | TCG single-player offline para Android | [🌐 site](https://astralforgeriseofobliviora.vercel.app) |
 | **Guerra dos Formigueiros** | RTS/tower-defense de formigas com espécies reais | [🌐 site](https://guerra-dos-formigueiros.vercel.app) |
 | **88 Starlings** | Construção de naves modulares 3D + sistema solar em tempo real | [🌐 site](https://88starlings.vercel.app) |
-| **Science Adventure** | Metroidvania 2D com gênios da ciência (Tesla & cia) | [🌐 site](https://scienceadventure.vercel.app) |
 | **Senet** | Jogo de tabuleiro do Egito Antigo (Android) | [🌐 site](https://senet-three.vercel.app) |
 | **FatimaGames** | Jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) · [🌐 site](https://fatimagames.vercel.app) |
-| **OmniCube** | O multímetro "imortal" sem botões, com diagnóstico por IA | [🌐 site](https://omnicube.vercel.app) |
-| **War Atlas Edition** | Board game de conquista mundial — edição de colecionador | [🌐 site](https://waratlas-ten.vercel.app) |
-| **Print&Pint** | Biblioteca de modelos 3D para impressão | [🌐 site](https://printpint.vercel.app) |
-| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop | [⟨code⟩](https://github.com/caioross/CadeiraRosa) · [🌐 site](https://cadeirarosa.vercel.app) |
 | **PyPílulas** | Canal de Python diário — uma pílula por dia | [🌐 site](https://pypilulas.vercel.app) |
 | **skilldepot-go** | SDK oficial em Go do SkillDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
-| **modelos_padrao** | Atendimento com n8n + WhatsApp e multi-agentes | [⟨code⟩](https://github.com/caioross/modelos_padrao) |
-| **n8n_base / n8n_Workflows** | Base e coleção de workflows de automação n8n | [⟨base⟩](https://github.com/caioross/n8n_base) · [⟨flows⟩](https://github.com/caioross/n8n_Workflows) |
-| **python_clarify** | Material do curso de Python (Clarify) | [⟨code⟩](https://github.com/caioross/python_clarify) |
 
 ---
 
