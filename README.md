@@ -26,7 +26,7 @@ const caio = {
   base: "São Paulo, Brasil 🇧🇷",
   foco: ["IA local-first", "XR / Computação Espacial", "Full-Stack", "Hardware"],
   stack: ["TypeScript", "Python", "Kotlin", "C++", "Next.js", "Unreal"],
-  filosofia: "Privacidade por padrão — se dá pra rodar offline, roda offline.",
+  filosofia: "Privacidade por padrão! se dá pra rodar offline, roda offline.",
   fazendo: "apps, jogos, SaaS, sites, automações e produtos físicos",
 };
 ```
@@ -45,8 +45,6 @@ const caio = {
 ---
 
 ### 🛠️ Projetos
-
-> Um lugar só, sem gavetas. `⟨code⟩` = repositório · `▶ live` = app no ar · `🌐 site` = página do projeto.
 
 | Projeto | O que é | Links |
 |---|---|---|
@@ -81,8 +79,6 @@ const caio = {
 | **n8n_base / n8n_Workflows** | Base e coleção de workflows de automação n8n | [⟨base⟩](https://github.com/caioross/n8n_base) · [⟨flows⟩](https://github.com/caioross/n8n_Workflows) |
 | **python_clarify** | Material do curso de Python (Clarify) | [⟨code⟩](https://github.com/caioross/python_clarify) |
 
-<sub>🔭 Tudo em **[github.com/caioross?tab=repositories](https://github.com/caioross?tab=repositories)** · alguns repos ainda privados (SkillDepot · [skilldepot.dev](https://skilldepot.dev), LinkaPet, docker-comfyui).</sub>
-
 ---
 
 ### 📊 Métricas
@@ -97,8 +93,6 @@ const caio = {
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=caioross&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=8"/>
 
 </div>
-
-### 🐍 A cobra come os commits
 
 <div align="center">
 
