@@ -46,6 +46,8 @@ const caio = {
 
 ### 🛠️ Projetos
 
+> 🎮 **[Estúdio de Games Independente](https://estudio-games-independente.vercel.app)** — a vitrine que reúne meus jogos indie (TCG, metroidvania, city-builder, RTS, tabuleiro e mais).
+
 | Projeto | O que é | Links |
 |---|---|---|
 | **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) · [▶ live](https://python365.vercel.app) |
