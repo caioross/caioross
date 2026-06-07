@@ -1,101 +1,108 @@
-<!-- PROFILE README — caioross -->
+<!-- ============ caioross — profile README ============ -->
+<a href="https://caiorossi.casa">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24c6dc&height=260&section=header&text=Caio%20Comitre%20Rossi&fontColor=ffffff&fontSize=52&fontAlignY=36&desc=IA%20local-first%20%E2%80%A2%20XR%20%2F%20Computa%C3%A7%C3%A3o%20Espacial%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Hardware&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+</a>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:2563eb,100:06b6d4&height=200&section=header&text=Caio%20Comitre%20Rossi&fontColor=ffffff&fontSize=46&fontAlignY=38&desc=Computa%C3%A7%C3%A3o%20Espacial%20%E2%80%A2%20XR%20%E2%80%A2%20IA%20local%20%E2%80%A2%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+[![Site](https://img.shields.io/badge/%F0%9F%8C%90_caiorossi.casa-1a1a2e?style=for-the-badge)](https://caiorossi.casa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiorossi)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7993-1033)
+![Profile views](https://komarev.com/ghpvc/?username=caioross&color=24c6dc&style=for-the-badge&label=VIEWS)
+![Followers](https://img.shields.io/github/followers/caioross?style=for-the-badge&color=8b5cf6&labelColor=1a1a2e&logo=github)
 
-<a href="https://caiorossi.casa"><img src="https://img.shields.io/badge/%F0%9F%8C%90%20caiorossi.casa-2563eb?style=for-the-badge&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/caiorossi"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://orcid.org/0009-0007-7993-1033"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=caioross&color=6d28d9&style=for-the-badge&label=PROFILE+VIEWS"/>
-
-<a href="https://readme-typing-svg.demolab.com"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=620&lines=Eat+%F0%9F%98%8B+Code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Sleep+%F0%9F%98%B4+Repeat+%E2%99%BE%EF%B8%8F;Construindo+IA+que+roda+na+sua+m%C3%A1quina.;Do+jogo+ao+SaaS%2C+do+hardware+ao+XR." alt="Typing SVG"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=900&color=24C6DC&center=true&vCenter=true&width=720&height=52&lines=Eat+%F0%9F%98%8B+Code+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Sleep+%F0%9F%98%B4+Repeat+%E2%99%BE%EF%B8%8F;Construindo+IA+que+roda+na+SUA+m%C3%A1quina.;Do+pixel+ao+foguete%3A+app%2C+jogo%2C+SaaS%2C+hardware.;30%2B+projetos+%E2%80%94+do+conceito+ao+deploy." alt="Typing SVG"/></a>
 
 </div>
 
 ---
 
-### 🚀 Sobre
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=caioross&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0f0c29&title_color=24c6dc&icon_color=8b5cf6&text_color=c9d1d9" alt="stats"/>
 
-```yaml
-nome:       Caio Comitre Rossi
-base:       São Paulo, Brasil 🇧🇷
-foco:       IA local-first, XR/Computação Espacial, Full-Stack, Hardware
-filosofia:  "Privacidade por padrão. Se dá pra rodar offline, roda offline."
-fazendo:    apps, jogos, SaaS, sites, automações e produtos — do conceito ao deploy
+### `> whoami`
+
+```ts
+const caio = {
+  base: "São Paulo, Brasil 🇧🇷",
+  foco: ["IA local-first", "XR / Computação Espacial", "Full-Stack", "Hardware"],
+  stack: ["TypeScript", "Python", "Kotlin", "C++", "Next.js", "Unreal"],
+  filosofia: "Privacidade por padrão — se dá pra rodar offline, roda offline.",
+  fazendo: "apps, jogos, SaaS, sites, automações e produtos físicos",
+};
 ```
 
----
+<br clear="right"/>
 
-### 🧰 Stack
+### 🧰 Arsenal
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=py,ts,js,react,nextjs,nodejs,kotlin,cpp,cs,unreal,docker,supabase,postgres,redis,tailwind,vite,threejs,pytorch,tensorflow,aws,gcp,cloudflare,linux,git,githubactions&perline=13)](https://skillicons.dev)
+![](https://skillicons.dev/icons?i=ts,js,py,kotlin,cpp,cs,react,nextjs,nodejs,tailwind,vite,threejs,unreal&perline=13)
+![](https://skillicons.dev/icons?i=pytorch,tensorflow,supabase,postgres,redis,docker,aws,gcp,cloudflare,linux,git,githubactions,vercel&perline=13)
 
 </div>
 
 ---
 
-### 🌐 No ar — projetos com demo live
+### 🛠️ Projetos
 
-| Projeto | O que é | |
+> Um lugar só, sem gavetas. `⟨code⟩` = repositório · `▶ live` = app no ar · `🌐 site` = página do projeto.
+
+| Projeto | O que é | Links |
 |---|---|---|
-| 🐍 **[python365](https://github.com/caioross/python365)** | 365 dias de Python: um script/dia + IDE no navegador (Pyodide) | [▶ demo](https://python365.vercel.app) |
-| 🌌 **[CodeOrigins](https://github.com/caioross/CodeOrigins)** | Mapa estelar 3D das linguagens de programação e suas origens | [▶ demo](https://codeorigins.vercel.app) |
-| ⚛️ **[cudernalis](https://github.com/caioross/cudernalis)** | Simulador 3D dos orbitais atômicos dos 118 elementos | [▶ demo](https://cudernalis.vercel.app) |
-| 🧬 **[CatalyticAtlasEDE](https://github.com/caioross/CatalyticAtlasEDE)** | Explorador 3D de enzimas (estrutura, mecanismo, dinâmica) | [▶ demo](https://catalytic-atlas.vercel.app) |
-| 📊 **[ExcelPlayground](https://github.com/caioross/ExcelPlayground)** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [▶ demo](https://excel-playground-omega.vercel.app) |
-| 🕰️ **[NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)** | Converse com 40+ personalidades históricas | [▶ demo](https://nostalgia-gpt.vercel.app) |
-| 🎙️ **[AulaLogger](https://github.com/caioross/AulaLogger)** | App Android: grava, transcreve e analisa aulas com IA on-device | [▶ demo](https://aula-logger.vercel.app) |
+| **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) · [▶ live](https://python365.vercel.app) |
+| **CodeOrigins** | Mapa estelar 3D das linguagens de programação e suas origens | [⟨code⟩](https://github.com/caioross/CodeOrigins) · [▶ live](https://codeorigins.vercel.app) |
+| **cudernalis** | Simulador 3D dos orbitais atômicos dos 118 elementos (física real) | [⟨code⟩](https://github.com/caioross/cudernalis) · [▶ live](https://cudernalis.vercel.app) |
+| **CatalyticAtlas** | Explorador 3D de enzimas: estrutura, mecanismo e dinâmica | [⟨code⟩](https://github.com/caioross/CatalyticAtlasEDE) · [▶ live](https://catalytic-atlas.vercel.app) |
+| **ExcelPlayground** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [⟨code⟩](https://github.com/caioross/ExcelPlayground) · [▶ live](https://excel-playground-omega.vercel.app) |
+| **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) · [▶ live](https://nostalgia-gpt.vercel.app) |
+| **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) · [▶ live](https://aula-logger.vercel.app) |
+| **Laguna Translate** | Tradução de voz PT↔EN em tempo real, 100% local | [⟨code⟩](https://github.com/caioross/Laguna_Translate) · [🌐 site](https://lagunatranslate.vercel.app) |
+| **3draza** | Transforma imagem em modelo 3D texturizado, 100% local | [⟨code⟩](https://github.com/caioross/3draza) · [🌐 site](https://3draza.vercel.app) |
+| **PromptMeter** | Extensão Chrome que dá nota e dica ao seu prompt em tempo real | [⟨code⟩](https://github.com/caioross/PromptMeter) · [🌐 site](https://promptmeter-pi.vercel.app) |
+| **Clippy** | Companheiro de desktop com IA 100% local (wake word + STT + LLM + TTS) | [⟨code⟩](https://github.com/caioross/Clippy) |
+| **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) |
+| **Trebuchet** | Framework de agentes de IA autônomos para hardware local | [⟨code⟩](https://github.com/caioross/Trebuchet) |
+| **AssetsMaker** | Pipeline local de geração de assets de jogo (Claude/Ollama + ComfyUI) | [⟨code⟩](https://github.com/caioross/AssetsMaker) |
+| **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) |
+| **Astral Forge** | TCG single-player offline para Android | [🌐 site](https://astralforgeriseofobliviora.vercel.app) |
+| **Guerra dos Formigueiros** | RTS/tower-defense de formigas com espécies reais | [🌐 site](https://guerra-dos-formigueiros.vercel.app) |
+| **88 Starlings** | Construção de naves modulares 3D + sistema solar em tempo real | [🌐 site](https://88starlings.vercel.app) |
+| **Science Adventure** | Metroidvania 2D com gênios da ciência (Tesla & cia) | [🌐 site](https://scienceadventure.vercel.app) |
+| **Senet** | Jogo de tabuleiro do Egito Antigo (Android) | [🌐 site](https://senet-three.vercel.app) |
+| **FatimaGames** | Jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) · [🌐 site](https://fatimagames.vercel.app) |
+| **OmniCube** | O multímetro "imortal" sem botões, com diagnóstico por IA | [🌐 site](https://omnicube.vercel.app) |
+| **War Atlas Edition** | Board game de conquista mundial — edição de colecionador | [🌐 site](https://waratlas-ten.vercel.app) |
+| **Print&Pint** | Biblioteca de modelos 3D para impressão | [🌐 site](https://printpint.vercel.app) |
+| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop | [⟨code⟩](https://github.com/caioross/CadeiraRosa) · [🌐 site](https://cadeirarosa.vercel.app) |
+| **PyPílulas** | Canal de Python diário — uma pílula por dia | [🌐 site](https://pypilulas.vercel.app) |
+| **skilldepot-go** | SDK oficial em Go do SkillDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
+| **modelos_padrao** | Atendimento com n8n + WhatsApp e multi-agentes | [⟨code⟩](https://github.com/caioross/modelos_padrao) |
+| **n8n_base / n8n_Workflows** | Base e coleção de workflows de automação n8n | [⟨base⟩](https://github.com/caioross/n8n_base) · [⟨flows⟩](https://github.com/caioross/n8n_Workflows) |
+| **python_clarify** | Material do curso de Python (Clarify) | [⟨code⟩](https://github.com/caioross/python_clarify) |
 
-### 🧠 IA local & ferramentas
-
-| Projeto | O que é |
-|---|---|
-| 🗣️ **[Laguna Translate](https://github.com/caioross/Laguna_Translate)** | Tradução de voz PT↔EN em tempo real, 100% local |
-| 🤖 **[Trebuchet](https://github.com/caioross/Trebuchet)** | Framework de agentes de IA autônomos para hardware local |
-| 📎 **[Clippy](https://github.com/caioross/Clippy)** | Companheiro de desktop com IA local (wake word + STT + LLM + TTS) |
-| 🎧 **[Transcribid](https://github.com/caioross/Transcribid)** | Grava mic + áudio do sistema e transcreve localmente (Windows) |
-| 🧊 **[3draza](https://github.com/caioross/3draza)** | Transforma imagem em modelo 3D texturizado, 100% local |
-| 🎨 **[AssetsMaker](https://github.com/caioross/AssetsMaker)** | Pipeline local de geração de assets de jogo (Claude/Ollama + ComfyUI) |
-| 📏 **[PromptMeter](https://github.com/caioross/PromptMeter)** | Extensão Chrome que dá nota e dica ao seu prompt em tempo real |
-
-### 📱 Apps & jogos
-
-| Projeto | O que é |
-|---|---|
-| 🧩 **[FatimaGames](https://github.com/caioross/FatimaGames)** | App Android de jogos casuais e relaxantes |
-| 🧬 **[DNAExplorer](https://github.com/caioross/DNAExplorer)** | Suba seu DNA bruto (23andMe/Ancestry) e explore o genoma em 3D |
-
-### 🤖 Automação & SDKs
-
-| Projeto | O que é |
-|---|---|
-| 📦 **[skilldepot-go](https://github.com/caioross/skilldepot-go)** | SDK oficial em Go do SkillDepot |
-| ⚙️ **[modelos_padrao](https://github.com/caioross/modelos_padrao)** | Atendimento com n8n + WhatsApp e multi-agentes |
-| 🔧 **[n8n_base](https://github.com/caioross/n8n_base)** · **[n8n_Workflows](https://github.com/caioross/n8n_Workflows)** | Base e coleção de workflows de automação n8n |
-
-### 🎵 Música & conteúdo
-
-| Projeto | O que é |
-|---|---|
-| 🌸 **[Cadeira Rosa](https://github.com/caioross/CadeiraRosa)** | Projeto musical lo-fi / synth-pop |
-| 🐍 **[python_clarify](https://github.com/caioross/python_clarify)** | Material do curso de Python (Clarify) |
-
-> 🔭 Veja **todos os repositórios** em **[github.com/caioross?tab=repositories](https://github.com/caioross?tab=repositories)** — e tem mais ecossistema em desenvolvimento (privado por ora): **LinkaPet**, **SkillDepot** ([skilldepot.dev](https://skilldepot.dev)), **Astral Forge**, **ScienceAdventure**, **OmniCube**, **docker-comfyui** e os sites de apresentação de cada produto.
+<sub>🔭 Tudo em **[github.com/caioross?tab=repositories](https://github.com/caioross?tab=repositories)** · alguns repos ainda privados (SkillDepot · [skilldepot.dev](https://skilldepot.dev), LinkaPet, docker-comfyui).</sub>
 
 ---
 
-### 📊 GitHub em números
+### 📊 Métricas
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=caioross&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=2563eb&title_color=6d28d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioross&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=6d28d9"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caioross&layout=compact&hide_border=true&langs_count=10&theme=react&bg_color=0f0c29&title_color=24c6dc&text_color=c9d1d9"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=caioross&hide_border=true&background=0f0c29&ring=24c6dc&fire=8b5cf6&currStreakLabel=24c6dc&sideLabels=c9d1d9&dates=8b949e"/>
 
-<br/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=caioross&bg_color=0f0c29&color=24c6dc&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20de%20commits"/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=caioross&hide_border=true&theme=tokyonight&ring=2563eb&fire=6d28d9&currStreakLabel=2563eb"/>
+<img width="98%" src="https://github-profile-trophy.vercel.app/?username=caioross&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=8"/>
+
+</div>
+
+### 🐍 A cobra come os commits
+
+<div align="center">
+
+<img width="98%" alt="snake" src="https://raw.githubusercontent.com/caioross/caioross/output/snake-dark.svg"/>
 
 </div>
 
@@ -103,8 +110,6 @@ fazendo:    apps, jogos, SaaS, sites, automações e produtos — do conceito ao
 
 <div align="center">
 
-*“Do byte ao foguete.” 🚀*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:2563eb,100:6d28d9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,60:302b63,100:0f0c29&height=120&section=footer&text=Do%20byte%20ao%20foguete.%20%F0%9F%9A%80&fontColor=ffffff&fontSize=20&fontAlignY=70" width="100%"/>
 
 </div>
