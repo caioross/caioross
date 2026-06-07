@@ -60,8 +60,8 @@ const caio = {
 | **Laguna Translate** | Tradução de voz PT↔EN em tempo real, 100% local | [⟨code⟩](https://github.com/caioross/Laguna_Translate) · [🌐 site](https://lagunatranslate.vercel.app) |
 | **3draza** | Transforma imagem em modelo 3D texturizado, 100% local | [⟨code⟩](https://github.com/caioross/3draza) · [🌐 site](https://3draza.vercel.app) |
 | **PromptMeter** | Extensão Chrome que dá nota e dica ao seu prompt em tempo real | [⟨code⟩](https://github.com/caioross/PromptMeter) · [🌐 site](https://promptmeter-pi.vercel.app) |
-| **Clippy** | Companheiro de desktop com IA 100% local (wake word + STT + LLM + TTS) | [⟨code⟩](https://github.com/caioross/Clippy) |
-| **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) |
+| **Clippy** | Companheiro de desktop com IA 100% local (wake word + STT + LLM + TTS) | [⟨code⟩](https://github.com/caioross/Clippy) · [🌐 site](https://clippy-beige.vercel.app) |
+| **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) · [🌐 site](https://transcribid.vercel.app) |
 | **Trebuchet** | Framework de agentes de IA autônomos para hardware local | [⟨code⟩](https://github.com/caioross/Trebuchet) |
 | **AssetsMaker** | Pipeline local de geração de assets de jogo (Claude/Ollama + ComfyUI) | [⟨code⟩](https://github.com/caioross/AssetsMaker) |
 | **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) |
