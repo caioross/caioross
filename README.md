@@ -75,22 +75,13 @@ const caio = {
 | **OmniCube** | Multímetro de bancada com IA — site de produto (hardware) | [🌐 site](https://omnicube.vercel.app) |
 | **Print&Pint** | Biblioteca de modelos 3D para impressão (fluxo Meshy → Blender → Bambu) | [🌐 site](https://printpint.vercel.app) |
 | **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | [🌐 site](https://cadeirarosa.vercel.app) |
+| **Gerador de Fotos** | Gera as 99 fotos de perfil de 99 Crimes com FLUX.1-schnell (GGUF) via ComfyUI — local | [🌐 site](https://gerador-fotos-99crimes-site.vercel.app) |
+| **Dublador Astral Forge** | Dublagem local PT-BR + EN das 135 cartas de Astral Forge (Qwen2.5-VL + Chatterbox) | [🌐 site](https://dublador-astral-forge.vercel.app) |
+| **Animador de Imagens** | Anima as artes de Astral Forge em vídeos em loop, local (Qwen2.5-VL + LTX-Video) | [🌐 site](https://animador-imagens-astral-forge.vercel.app) |
+| **Gerenciador de Módulos** | App web (Three.js) que cataloga os módulos .glb e exporta o catálogo de 88 Starlings | [🌐 site](https://gerenciador-modulos-88starlings.vercel.app) |
 | **FatimaGames** | Jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) · [🌐 site](https://fatimagames.vercel.app) |
 | **PyPílulas** | Canal de Python diário — uma pílula por dia | [🌐 site](https://pypilulas.vercel.app) |
 | **skilldepot-go** | SDK oficial em Go do SkillDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
-
----
-
-### 🔧 Ferramentas locais de IA — pipelines de produção dos jogos
-
-> Bastidores: pipelines **100% locais** (modelos GGUF, ComfyUI, llama.cpp) que geram arte, voz e dados para os jogos — sem nuvem, sem custo por render.
-
-| Ferramenta | O que faz | Links |
-|---|---|---|
-| **Gerador de Fotos** | Gera as 99 fotos de perfil de *99 Crimes* com FLUX.1-schnell (GGUF) via ComfyUI | [🌐 site](https://gerador-fotos-99crimes-site.vercel.app) |
-| **Dublador Astral Forge** | Dublagem PT-BR + EN das 135 cartas de *Astral Forge* (Qwen2.5-VL + Chatterbox) | [🌐 site](https://dublador-astral-forge.vercel.app) |
-| **Animador de Imagens** | Anima as artes de *Astral Forge* em vídeos curtos em loop (Qwen2.5-VL + LTX-Video) | [🌐 site](https://animador-imagens-astral-forge.vercel.app) |
-| **Gerenciador de Módulos** | App web (Three.js) que cataloga os módulos .glb e exporta o catálogo de *88 Starlings* | [🌐 site](https://gerenciador-modulos-88starlings.vercel.app) |
 
 ---
 
