@@ -65,6 +65,8 @@ const caio = {
 | **Guerra dos Formigueiros** | RTS/tower-defense de formigas com espécies reais | [🌐 site](https://guerra-dos-formigueiros.vercel.app) |
 | **88 Starlings** | Construção de naves modulares 3D + sistema solar em tempo real | [🌐 site](https://88starlings.vercel.app) |
 | **Senet** | Jogo de tabuleiro do Egito Antigo (Android) | [🌐 site](https://senet-three.vercel.app) |
+| **99 Crimes** | Detetive por mensagens: 99 contatos, 98 casos — resolva só conversando (Android) | [🌐 site](https://99crimes.vercel.app) |
+| **RealCities** | City-builder low-poly (Unity) — distritos, trens e trânsito | [🌐 site](https://realcities.vercel.app) |
 | **FatimaGames** | Jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) · [🌐 site](https://fatimagames.vercel.app) |
 | **PyPílulas** | Canal de Python diário — uma pílula por dia | [🌐 site](https://pypilulas.vercel.app) |
 | **skilldepot-go** | SDK oficial em Go do SkillDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
