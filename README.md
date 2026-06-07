@@ -36,22 +36,53 @@ fazendo:    apps, jogos, SaaS, sites, automações e produtos — do conceito ao
 
 ---
 
-### ✨ Projetos em destaque
+### 🌐 No ar — projetos com demo live
 
-<div align="center">
-
-| Projeto | O que é | Demo |
+| Projeto | O que é | |
 |---|---|---|
-| 🐍 **[python365](https://github.com/caioross/python365)** | 365 dias de Python: um script por dia + IDE no navegador (Pyodide) | [python365.vercel.app](https://python365.vercel.app) |
-| 🌌 **[CodeOrigins](https://github.com/caioross/CodeOrigins)** | Mapa estelar 3D das linguagens de programação, suas origens e linhagens | [codeorigins.vercel.app](https://codeorigins.vercel.app) |
-| ⚛️ **[cudernalis](https://github.com/caioross/cudernalis)** | Simulador 3D interativo dos orbitais dos 118 elementos, com física real | [cudernalis.vercel.app](https://cudernalis.vercel.app) |
-| 🎙️ **[Laguna Translate](https://github.com/caioross/Laguna_Translate)** | Tradução de voz PT↔EN em tempo real, 100% local (Whisper + Argos + Piper) | — |
-| 🤖 **[Trebuchet](https://github.com/caioross/Trebuchet)** | Framework de agentes de IA autônomos para hardware local (LLM + RAG + visão) | — |
-| 🕰️ **[NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)** | Converse com 40+ personalidades históricas em 1ª pessoa | — |
+| 🐍 **[python365](https://github.com/caioross/python365)** | 365 dias de Python: um script/dia + IDE no navegador (Pyodide) | [▶ demo](https://python365.vercel.app) |
+| 🌌 **[CodeOrigins](https://github.com/caioross/CodeOrigins)** | Mapa estelar 3D das linguagens de programação e suas origens | [▶ demo](https://codeorigins.vercel.app) |
+| ⚛️ **[cudernalis](https://github.com/caioross/cudernalis)** | Simulador 3D dos orbitais atômicos dos 118 elementos | [▶ demo](https://cudernalis.vercel.app) |
+| 🧬 **[CatalyticAtlasEDE](https://github.com/caioross/CatalyticAtlasEDE)** | Explorador 3D de enzimas (estrutura, mecanismo, dinâmica) | [▶ demo](https://catalytic-atlas.vercel.app) |
+| 📊 **[ExcelPlayground](https://github.com/caioross/ExcelPlayground)** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [▶ demo](https://excel-playground-omega.vercel.app) |
+| 🕰️ **[NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)** | Converse com 40+ personalidades históricas | [▶ demo](https://nostalgia-gpt.vercel.app) |
+| 🎙️ **[AulaLogger](https://github.com/caioross/AulaLogger)** | App Android: grava, transcreve e analisa aulas com IA on-device | [▶ demo](https://aula-logger.vercel.app) |
 
-</div>
+### 🧠 IA local & ferramentas
 
-> 🔒 E mais um ecossistema em desenvolvimento (boa parte privado por enquanto): **AulaLogger** (gravação + transcrição de aulas on-device), **LinkaPet** (prontuário digital de pets), **SkillDepot** ([skilldepot.dev](https://skilldepot.dev) — marketplace de skills para agentes de IA), **Astral Forge** & **ScienceAdventure** (jogos) e a stack **docker-comfyui** de IA self-hosted.
+| Projeto | O que é |
+|---|---|
+| 🗣️ **[Laguna Translate](https://github.com/caioross/Laguna_Translate)** | Tradução de voz PT↔EN em tempo real, 100% local |
+| 🤖 **[Trebuchet](https://github.com/caioross/Trebuchet)** | Framework de agentes de IA autônomos para hardware local |
+| 📎 **[Clippy](https://github.com/caioross/Clippy)** | Companheiro de desktop com IA local (wake word + STT + LLM + TTS) |
+| 🎧 **[Transcribid](https://github.com/caioross/Transcribid)** | Grava mic + áudio do sistema e transcreve localmente (Windows) |
+| 🧊 **[3draza](https://github.com/caioross/3draza)** | Transforma imagem em modelo 3D texturizado, 100% local |
+| 🎨 **[AssetsMaker](https://github.com/caioross/AssetsMaker)** | Pipeline local de geração de assets de jogo (Claude/Ollama + ComfyUI) |
+| 📏 **[PromptMeter](https://github.com/caioross/PromptMeter)** | Extensão Chrome que dá nota e dica ao seu prompt em tempo real |
+
+### 📱 Apps & jogos
+
+| Projeto | O que é |
+|---|---|
+| 🧩 **[FatimaGames](https://github.com/caioross/FatimaGames)** | App Android de jogos casuais e relaxantes |
+| 🧬 **[DNAExplorer](https://github.com/caioross/DNAExplorer)** | Suba seu DNA bruto (23andMe/Ancestry) e explore o genoma em 3D |
+
+### 🤖 Automação & SDKs
+
+| Projeto | O que é |
+|---|---|
+| 📦 **[skilldepot-go](https://github.com/caioross/skilldepot-go)** | SDK oficial em Go do SkillDepot |
+| ⚙️ **[modelos_padrao](https://github.com/caioross/modelos_padrao)** | Atendimento com n8n + WhatsApp e multi-agentes |
+| 🔧 **[n8n_base](https://github.com/caioross/n8n_base)** · **[n8n_Workflows](https://github.com/caioross/n8n_Workflows)** | Base e coleção de workflows de automação n8n |
+
+### 🎵 Música & conteúdo
+
+| Projeto | O que é |
+|---|---|
+| 🌸 **[Cadeira Rosa](https://github.com/caioross/CadeiraRosa)** | Projeto musical lo-fi / synth-pop |
+| 🐍 **[python_clarify](https://github.com/caioross/python_clarify)** | Material do curso de Python (Clarify) |
+
+> 🔭 Veja **todos os repositórios** em **[github.com/caioross?tab=repositories](https://github.com/caioross?tab=repositories)** — e tem mais ecossistema em desenvolvimento (privado por ora): **LinkaPet**, **SkillDepot** ([skilldepot.dev](https://skilldepot.dev)), **Astral Forge**, **ScienceAdventure**, **OmniCube**, **docker-comfyui** e os sites de apresentação de cada produto.
 
 ---
 
