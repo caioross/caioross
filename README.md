@@ -48,7 +48,7 @@ const caio = {
 <br/>
 
 | Projeto | O que é | Code | Site |
-|---|---|---|---|---|
+|---|---|---|---|
 | **Estúdio de Games Independente** |  a vitrine única que reúne meus jogos indie (TCG, metroidvania, city-builder, RTS, tabuleiro e mais) | --- | [🌐 site](https://estudio-games-independente.vercel.app) |
 | **99 Crimes** | Detetive por mensagens: 99 contatos, 98 casos — resolva só conversando (Android) | --- | [🌐 site](https://99crimes.vercel.app) |
 | **Astral Forge** | TCG single-player offline com arte própria (Android) | --- | [🌐 site](https://astralforgeriseofobliviora.vercel.app) |
@@ -76,7 +76,7 @@ const caio = {
 | **Print&Pint** | Biblioteca de modelos 3D para impressão (fluxo Meshy → Blender → Bambu) | --- | [🌐 site](https://printpint.vercel.app) |
 | **MedPet** | App para tutores de pets — carteira de vacinas, lembretes e histórico | --- | [🌐 site](https://med-pet.vercel.app) |
 | **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) | [🌐 site](https://aula-logger.vercel.app) |
-| **skilldepot-go** | SDK oficial em Go do SkilDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
+| **skilldepot-go** | SDK oficial em Go do SkilDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) | — |
 | **War Atlas** | Board game de conquista mundial com globo escultural e o titã Atlas | --- | [🌐 site](https://waratlas-ten.vercel.app) |
 | **Gerador de Fotos** | Gera as 99 fotos de perfil de *99 Crimes* com FLUX.1-schnell (GGUF) via ComfyUI | --- | [🌐 site](https://gerador-fotos-99crimes-site.vercel.app) |
 | **Dublador Astral Forge** | Dublagem PT-BR + EN das 135 cartas de *Astral Forge* (Qwen2.5-VL + Chatterbox) | --- | [🌐 site](https://dublador-astral-forge.vercel.app) |
