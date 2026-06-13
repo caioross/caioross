@@ -45,18 +45,6 @@ const caio = {
 ---
 
 ### 🗂️ Projetos
-
-<div align="center">
-
-![Jogos](https://img.shields.io/badge/🎮_Jogos-10-f59e0b?style=for-the-badge&labelColor=1a1a2e)
-![IA local](https://img.shields.io/badge/🤖_IA_local--first-5-8b5cf6?style=for-the-badge&labelColor=1a1a2e)
-![Ciência](https://img.shields.io/badge/🧪_Ciência_&_Educação-6-22c55e?style=for-the-badge&labelColor=1a1a2e)
-![SaaS](https://img.shields.io/badge/🏭_SaaS_&_Produtos-7-3b82f6?style=for-the-badge&labelColor=1a1a2e)
-![Ferramentas](https://img.shields.io/badge/🔧_Pipelines_de_IA-4-ef4444?style=for-the-badge&labelColor=1a1a2e)
-![Conteúdo](https://img.shields.io/badge/🎬_Conteúdo_&_Música-2-f43f5e?style=for-the-badge&labelColor=1a1a2e)
-
-</div>
-
 <br/>
 
 | Projeto | O que é | Links |
