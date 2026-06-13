@@ -59,7 +59,7 @@ const caio = {
 
 > 🎮 **[Estúdio de Games Independente](https://estudio-games-independente.vercel.app)** — a vitrine única que reúne meus jogos indie (TCG, metroidvania, city-builder, RTS, tabuleiro e mais). · *Clique nas categorias abaixo para expandir.*
 
-<details open>
+<details>
 <summary><b>🎮 Jogos</b> — 10 títulos, do TCG ao city-builder</summary>
 
 <br/>
@@ -90,7 +90,7 @@ const caio = {
 | **Laguna Translate** | Tradução de voz PT↔EN em tempo real, 100% local | [⟨code⟩](https://github.com/caioross/Laguna_Translate) · [🌐 site](https://lagunatranslate.vercel.app) |
 | **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) · [🌐 site](https://transcribid.vercel.app) |
 | **3draza** | Transforma imagem em modelo 3D texturizado, 100% local | [⟨code⟩](https://github.com/caioross/3draza) · [🌐 site](https://3draza.vercel.app) |
-| **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) · [▶ live](https://nostalgia-gpt.vercel.app) |
+| **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) · [🌐 site](https://nostalgia-gpt.vercel.app) |
 
 </details>
 
@@ -101,12 +101,12 @@ const caio = {
 
 | Projeto | O que é | Links |
 |---|---|---|
-| **cudernalis** | Simulador 3D dos orbitais atômicos dos 118 elementos (física real) | [⟨code⟩](https://github.com/caioross/cudernalis) · [▶ live](https://cudernalis.vercel.app) |
-| **CodeOrigins** | Mapa estelar 3D das linguagens de programação e suas origens | [⟨code⟩](https://github.com/caioross/CodeOrigins) · [▶ live](https://www.codeorigins.space) |
-| **CatalyticAtlas** | Explorador 3D de enzimas: estrutura, mecanismo e dinâmica | [⟨code⟩](https://github.com/caioross/CatalyticAtlasEDE) · [▶ live](https://catalytic-atlas.vercel.app) |
-| **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) · [▶ live](https://dna-explorer-eta.vercel.app) |
-| **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) · [▶ live](https://python365.vercel.app) |
-| **ExcelPlayground** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [⟨code⟩](https://github.com/caioross/ExcelPlayground) · [▶ live](https://excel-playground-omega.vercel.app) |
+| **cudernalis** | Simulador 3D dos orbitais atômicos dos 118 elementos (física real) | [⟨code⟩](https://github.com/caioross/cudernalis) · [🌐 site](https://cudernalis.vercel.app) |
+| **CodeOrigins** | Mapa estelar 3D das linguagens de programação e suas origens | [⟨code⟩](https://github.com/caioross/CodeOrigins) · [🌐 site](https://www.codeorigins.space) |
+| **CatalyticAtlas** | Explorador 3D de enzimas: estrutura, mecanismo e dinâmica | [⟨code⟩](https://github.com/caioross/CatalyticAtlasEDE) · [🌐 site](https://catalytic-atlas.vercel.app) |
+| **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) · [🌐 site](https://dna-explorer-eta.vercel.app) |
+| **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) · [🌐 site](https://python365.vercel.app) |
+| **ExcelPlayground** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [⟨code⟩](https://github.com/caioross/ExcelPlayground) · [🌐 site](https://excel-playground-omega.vercel.app) |
 
 </details>
 
@@ -122,7 +122,7 @@ const caio = {
 | **OmniCube** | Multímetro de bancada com IA — produto de hardware | [🌐 site](https://omnicube.vercel.app) |
 | **Print&Pint** | Biblioteca de modelos 3D para impressão (fluxo Meshy → Blender → Bambu) | [🌐 site](https://printpint.vercel.app) |
 | **MedPet** | App para tutores de pets — carteira de vacinas, lembretes e histórico | [🌐 site](https://med-pet.vercel.app) |
-| **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) · [▶ live](https://aula-logger.vercel.app) |
+| **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) · [🌐 site](https://aula-logger.vercel.app) |
 | **skilldepot-go** | SDK oficial em Go do SkilDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
 
 </details>
