@@ -64,6 +64,8 @@ const caio = {
 | **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) | [🌐 site](https://transcribid.vercel.app) |
 | **3draza** | Transforma imagem em modelo 3D texturizado, 100% local | [⟨code⟩](https://github.com/caioross/3draza) | [🌐 site](https://3draza.vercel.app) |
 | **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) | [🌐 site](https://nostalgia-gpt.vercel.app) |
+| **Trebuchet** | Framework para criar e orquestrar agentes de IA autônomos em hardware local (llama-cpp-python + Chroma) | [⟨code⟩](https://github.com/caioross/Trebuchet) | --- |
+| **AssetsMaker** | Pipeline local de geração de assets de jogo — orquestra Claude/Ollama + ComfyUI (SD/ControlNet) | [⟨code⟩](https://github.com/caioross/AssetsMaker) | --- |
 | **cudernalis** | Simulador 3D dos orbitais atômicos dos 118 elementos (física real) | [⟨code⟩](https://github.com/caioross/cudernalis) | [🌐 site](https://cudernalis.vercel.app) |
 | **CodeOrigins** | Mapa estelar 3D das linguagens de programação e suas origens | [⟨code⟩](https://github.com/caioross/CodeOrigins) | [🌐 site](https://www.codeorigins.space) |
 | **CatalyticAtlas** | Explorador 3D de enzimas: estrutura, mecanismo e dinâmica | [⟨code⟩](https://github.com/caioross/CatalyticAtlasEDE) | [🌐 site](https://catalytic-atlas.vercel.app) |
@@ -83,7 +85,7 @@ const caio = {
 | **Animador de Imagens** | Anima as artes de *Astral Forge* em vídeos em loop (Qwen2.5-VL + LTX-Video) | --- | [🌐 site](https://animador-imagens-astral-forge.vercel.app) |
 | **Gerenciador de Módulos** | App web (Three.js) que cataloga os módulos .glb e exporta o catálogo de *88 Starlings* | --- | [🌐 site](https://gerenciador-modulos-88starlings.vercel.app) |
 | **PyPílulas** | Canal de Python diário — uma pílula por dia | --- | [🌐 site](https://pypilulas.vercel.app) |
-| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | --- | [🌐 site](https://cadeirarosa.vercel.app) |
+| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | [⟨code⟩](https://github.com/caioross/CadeiraRosa) | [🌐 site](https://cadeirarosa.vercel.app) |
 
 ---
 
