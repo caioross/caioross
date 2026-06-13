@@ -85,7 +85,7 @@ const caio = {
 | **Animador de Imagens** | Anima as artes de *Astral Forge* em vídeos em loop (Qwen2.5-VL + LTX-Video) | --- | [🌐 site](https://animador-imagens-astral-forge.vercel.app) |
 | **Gerenciador de Módulos** | App web (Three.js) que cataloga os módulos .glb e exporta o catálogo de *88 Starlings* | --- | [🌐 site](https://gerenciador-modulos-88starlings.vercel.app) |
 | **PyPílulas** | Canal de Python diário — uma pílula por dia | --- | [🌐 site](https://pypilulas.vercel.app) |
-| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | [⟨code⟩](https://github.com/caioross/CadeiraRosa) | [🌐 site](https://cadeirarosa.vercel.app) |
+| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | --- | [🌐 site](https://cadeirarosa.vercel.app) |
 
 ---
 
