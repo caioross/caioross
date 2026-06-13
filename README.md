@@ -47,43 +47,43 @@ const caio = {
 ### 🗂️ Projetos
 <br/>
 
-| Projeto | O que é | Links |
-|---|---|---|
-| **Estúdio de Games Independente** |  a vitrine única que reúne meus jogos indie (TCG, metroidvania, city-builder, RTS, tabuleiro e mais) | [🌐 site](https://estudio-games-independente.vercel.app) |
-| **99 Crimes** | Detetive por mensagens: 99 contatos, 98 casos — resolva só conversando (Android) | [🌐 site](https://99crimes.vercel.app) |
-| **Astral Forge** | TCG single-player offline com arte própria (Android) | [🌐 site](https://astralforgeriseofobliviora.vercel.app) |
-| **RealCities** | City-builder low-poly (Unity) — distritos, trens e trânsito | [🌐 site](https://realcities.vercel.app) |
-| **88 Starlings** | Construção de naves modulares 3D + sistema solar em tempo real | [🌐 site](https://88starlings.vercel.app) |
-| **Guerra dos Formigueiros** | RTS/tower-defense de formigas com espécies reais | [🌐 site](https://guerra-dos-formigueiros.vercel.app) |
-| **Senet** | Jogo de tabuleiro do Egito Antigo (Android) | [🌐 site](https://senet-three.vercel.app) |
-| **Science Adventure** | Metroidvania 2D com cientistas históricos (Tesla & cia) — Phaser 3 | [🌐 site](https://scienceadventure.vercel.app) |
-| **FatimaGames** | Coletânea de jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) · [🌐 site](https://fatimagames.vercel.app) |
-| **CodeRacer** | Jogo de corrida de digitação de código — escreva trechos e acelere | [🌐 site](https://code-racer-three.vercel.app) |
-| **Clippy** | Companheiro de desktop com IA 100% local (wake word + STT + LLM + TTS) | [⟨code⟩](https://github.com/caioross/Clippy) · [🌐 site](https://clippy-beige.vercel.app) |
-| **Laguna Translate** | Tradução de voz PT↔EN em tempo real, 100% local | [⟨code⟩](https://github.com/caioross/Laguna_Translate) · [🌐 site](https://lagunatranslate.vercel.app) |
-| **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) · [🌐 site](https://transcribid.vercel.app) |
-| **3draza** | Transforma imagem em modelo 3D texturizado, 100% local | [⟨code⟩](https://github.com/caioross/3draza) · [🌐 site](https://3draza.vercel.app) |
-| **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) · [🌐 site](https://nostalgia-gpt.vercel.app) |
-| **cudernalis** | Simulador 3D dos orbitais atômicos dos 118 elementos (física real) | [⟨code⟩](https://github.com/caioross/cudernalis) · [🌐 site](https://cudernalis.vercel.app) |
-| **CodeOrigins** | Mapa estelar 3D das linguagens de programação e suas origens | [⟨code⟩](https://github.com/caioross/CodeOrigins) · [🌐 site](https://www.codeorigins.space) |
-| **CatalyticAtlas** | Explorador 3D de enzimas: estrutura, mecanismo e dinâmica | [⟨code⟩](https://github.com/caioross/CatalyticAtlasEDE) · [🌐 site](https://catalytic-atlas.vercel.app) |
-| **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) · [🌐 site](https://dna-explorer-eta.vercel.app) |
-| **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) · [🌐 site](https://python365.vercel.app) |
-| **ExcelPlayground** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [⟨code⟩](https://github.com/caioross/ExcelPlayground) · [🌐 site](https://excel-playground-omega.vercel.app) |
-| **SkilDepot** | Plataforma/registro de skills para agentes de IA (com SDK em Go) | [🌐 site](https://www.skilldepot.dev) |
-| **Mecânica Smart** | SaaS para oficinas mecânicas — monorepo Next.js (web) + Expo (mobile) | [🌐 site](https://mecanica-smart.vercel.app) |
+| Projeto | O que é | Code | Site |
+|---|---|---|---|---|
+| **Estúdio de Games Independente** |  a vitrine única que reúne meus jogos indie (TCG, metroidvania, city-builder, RTS, tabuleiro e mais) | - | [🌐 site](https://estudio-games-independente.vercel.app) |
+| **99 Crimes** | Detetive por mensagens: 99 contatos, 98 casos — resolva só conversando (Android) | - | [🌐 site](https://99crimes.vercel.app) |
+| **Astral Forge** | TCG single-player offline com arte própria (Android) | - | [🌐 site](https://astralforgeriseofobliviora.vercel.app) |
+| **RealCities** | City-builder low-poly (Unity) — distritos, trens e trânsito | - | [🌐 site](https://realcities.vercel.app) |
+| **88 Starlings** | Construção de naves modulares 3D + sistema solar em tempo real | - | [🌐 site](https://88starlings.vercel.app) |
+| **Guerra dos Formigueiros** | RTS/tower-defense de formigas com espécies reais | - | [🌐 site](https://guerra-dos-formigueiros.vercel.app) |
+| **Senet** | Jogo de tabuleiro do Egito Antigo (Android) | - | [🌐 site](https://senet-three.vercel.app) |
+| **Science Adventure** | Metroidvania 2D com cientistas históricos (Tesla & cia) — Phaser 3 | - | [🌐 site](https://scienceadventure.vercel.app) |
+| **FatimaGames** | Coletânea de jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) | [🌐 site](https://fatimagames.vercel.app) |
+| **CodeRacer** | Jogo de corrida de digitação de código — escreva trechos e acelere | - | [🌐 site](https://code-racer-three.vercel.app) |
+| **Clippy** | Companheiro de desktop com IA 100% local (wake word + STT + LLM + TTS) | [⟨code⟩](https://github.com/caioross/Clippy) | [🌐 site](https://clippy-beige.vercel.app) |
+| **Laguna Translate** | Tradução de voz PT↔EN em tempo real, 100% local | [⟨code⟩](https://github.com/caioross/Laguna_Translate) | [🌐 site](https://lagunatranslate.vercel.app) |
+| **Transcribid** | Grava mic + áudio do sistema e transcreve localmente (Windows) | [⟨code⟩](https://github.com/caioross/Transcribid) | [🌐 site](https://transcribid.vercel.app) |
+| **3draza** | Transforma imagem em modelo 3D texturizado, 100% local | [⟨code⟩](https://github.com/caioross/3draza) | [🌐 site](https://3draza.vercel.app) |
+| **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) | [🌐 site](https://nostalgia-gpt.vercel.app) |
+| **cudernalis** | Simulador 3D dos orbitais atômicos dos 118 elementos (física real) | [⟨code⟩](https://github.com/caioross/cudernalis) | [🌐 site](https://cudernalis.vercel.app) |
+| **CodeOrigins** | Mapa estelar 3D das linguagens de programação e suas origens | [⟨code⟩](https://github.com/caioross/CodeOrigins) | [🌐 site](https://www.codeorigins.space) |
+| **CatalyticAtlas** | Explorador 3D de enzimas: estrutura, mecanismo e dinâmica | [⟨code⟩](https://github.com/caioross/CatalyticAtlasEDE) | [🌐 site](https://catalytic-atlas.vercel.app) |
+| **DNAExplorer** | Suba seu DNA bruto e explore o genoma em 3D (client-side) | [⟨code⟩](https://github.com/caioross/DNAExplorer) | [🌐 site](https://dna-explorer-eta.vercel.app) |
+| **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) | [🌐 site](https://python365.vercel.app) |
+| **ExcelPlayground** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [⟨code⟩](https://github.com/caioross/ExcelPlayground) | [🌐 site](https://excel-playground-omega.vercel.app) |
+| **SkilDepot** | Plataforma/registro de skills para agentes de IA (com SDK em Go) | - | [🌐 site](https://www.skilldepot.dev) |
+| **Mecânica Smart** | SaaS para oficinas mecânicas — monorepo Next.js (web) + Expo (mobile) | - | [🌐 site](https://mecanica-smart.vercel.app) |
 | **OmniCube** | Multímetro de bancada com IA — produto de hardware | [🌐 site](https://omnicube.vercel.app) |
-| **Print&Pint** | Biblioteca de modelos 3D para impressão (fluxo Meshy → Blender → Bambu) | [🌐 site](https://printpint.vercel.app) |
-| **MedPet** | App para tutores de pets — carteira de vacinas, lembretes e histórico | [🌐 site](https://med-pet.vercel.app) |
-| **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) · [🌐 site](https://aula-logger.vercel.app) |
+| **Print&Pint** | Biblioteca de modelos 3D para impressão (fluxo Meshy → Blender → Bambu) | - | [🌐 site](https://printpint.vercel.app) |
+| **MedPet** | App para tutores de pets — carteira de vacinas, lembretes e histórico | - | [🌐 site](https://med-pet.vercel.app) |
+| **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) | [🌐 site](https://aula-logger.vercel.app) |
 | **skilldepot-go** | SDK oficial em Go do SkilDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) |
 | **War Atlas** | Board game de conquista mundial com globo escultural e o titã Atlas | [🌐 site](https://waratlas-ten.vercel.app) |
-| **Gerador de Fotos** | Gera as 99 fotos de perfil de *99 Crimes* com FLUX.1-schnell (GGUF) via ComfyUI | [🌐 site](https://gerador-fotos-99crimes-site.vercel.app) |
-| **Dublador Astral Forge** | Dublagem PT-BR + EN das 135 cartas de *Astral Forge* (Qwen2.5-VL + Chatterbox) | [🌐 site](https://dublador-astral-forge.vercel.app) |
-| **Animador de Imagens** | Anima as artes de *Astral Forge* em vídeos em loop (Qwen2.5-VL + LTX-Video) | [🌐 site](https://animador-imagens-astral-forge.vercel.app) |
-| **Gerenciador de Módulos** | App web (Three.js) que cataloga os módulos .glb e exporta o catálogo de *88 Starlings* | [🌐 site](https://gerenciador-modulos-88starlings.vercel.app) |
-| **PyPílulas** | Canal de Python diário — uma pílula por dia | [🌐 site](https://pypilulas.vercel.app) |
-| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | [🌐 site](https://cadeirarosa.vercel.app) |
+| **Gerador de Fotos** | Gera as 99 fotos de perfil de *99 Crimes* com FLUX.1-schnell (GGUF) via ComfyUI | - | [🌐 site](https://gerador-fotos-99crimes-site.vercel.app) |
+| **Dublador Astral Forge** | Dublagem PT-BR + EN das 135 cartas de *Astral Forge* (Qwen2.5-VL + Chatterbox) | - | [🌐 site](https://dublador-astral-forge.vercel.app) |
+| **Animador de Imagens** | Anima as artes de *Astral Forge* em vídeos em loop (Qwen2.5-VL + LTX-Video) | - | [🌐 site](https://animador-imagens-astral-forge.vercel.app) |
+| **Gerenciador de Módulos** | App web (Three.js) que cataloga os módulos .glb e exporta o catálogo de *88 Starlings* | - | [🌐 site](https://gerenciador-modulos-88starlings.vercel.app) |
+| **PyPílulas** | Canal de Python diário — uma pílula por dia | - | [🌐 site](https://pypilulas.vercel.app) |
+| **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | - | [🌐 site](https://cadeirarosa.vercel.app) |
 
 ---
 
