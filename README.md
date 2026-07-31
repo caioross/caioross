@@ -15,11 +15,11 @@
 
 </div>
 
----
+<details open>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-whoami.jpg" alt="whoami — desenvolvedor, instrutor, criador" width="100%"/></summary>
+<br/>
 
 <img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=caioross&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=react&bg_color=0f0c29&title_color=24c6dc&icon_color=8b5cf6&text_color=c9d1d9" alt="stats"/>
-
-### `> whoami`
 
 ```ts
 const caio = {
@@ -35,7 +35,11 @@ const caio = {
 
 <br clear="right"/>
 
-### 🧰 Arsenal
+</details>
+
+<details open>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-arsenal.jpg" alt="Arsenal — tecnologias, linguagens e ferramentas" width="100%"/></summary>
+<br/>
 
 <div align="center">
 
@@ -44,14 +48,20 @@ const caio = {
 
 </div>
 
----
-
-### 🗂️ Projetos
-
-**56 projetos em 8 categorias** — clique numa categoria para abrir. `⟨code⟩` = repositório público · `🌐` = ao vivo · `🔒` = repo privado · `🧪` = em desenvolvimento
+</details>
 
 <details open>
-<summary><b>🧠 &nbsp;IA local-first</b> &nbsp;·&nbsp; ferramentas de IA que rodam na sua máquina &nbsp;·&nbsp; <b>9</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-projetos.jpg" alt="Projetos — 56 projetos, 8 categorias, do conceito ao deploy" width="100%"/></summary>
+<br/>
+
+<div align="center">
+
+`⟨code⟩` repositório público &nbsp;·&nbsp; `🌐` ao vivo &nbsp;·&nbsp; `🔒` repo privado &nbsp;·&nbsp; `🧪` em desenvolvimento — **clique num banner para abrir a categoria**
+
+</div>
+
+<details>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-ia-local-first.jpg" alt="IA local-first — ferramentas de IA que rodam na sua máquina · 9" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -69,7 +79,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>🎮 &nbsp;Jogos & mundos 3D</b> &nbsp;·&nbsp; do TCG ao city-builder, com pipeline de conteúdo próprio &nbsp;·&nbsp; <b>16</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-jogos.jpg" alt="Jogos & mundos 3D — do TCG ao city-builder · 16" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -94,7 +104,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>🔬 &nbsp;Ciência interativa</b> &nbsp;·&nbsp; exploradores 3D de átomos, enzimas, DNA e linguagens &nbsp;·&nbsp; <b>4</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-ciencia.jpg" alt="Ciência interativa — exploradores 3D de átomos, enzimas, DNA e linguagens · 4" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -107,7 +117,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>📱 &nbsp;Apps, SaaS & dashboards</b> &nbsp;·&nbsp; produtos digitais e painéis pessoais &nbsp;·&nbsp; <b>11</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-apps-saas.jpg" alt="Apps, SaaS & dashboards — produtos digitais e painéis pessoais · 11" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -127,7 +137,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>⚙️ &nbsp;Infra & automação</b> &nbsp;·&nbsp; stacks self-hosted e workflows n8n &nbsp;·&nbsp; <b>4</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-infra.jpg" alt="Infra & automação — stacks self-hosted e workflows n8n · 4" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -140,7 +150,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>🔧 &nbsp;Hardware & produtos físicos</b> &nbsp;·&nbsp; do multímetro com IA ao board game &nbsp;·&nbsp; <b>3</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-hardware.jpg" alt="Hardware & produtos físicos — do multímetro com IA ao board game · 3" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -152,7 +162,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>📚 &nbsp;Educação & conteúdo</b> &nbsp;·&nbsp; cursos, canais, livro e música &nbsp;·&nbsp; <b>7</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-educacao.jpg" alt="Educação & conteúdo — cursos, canais, livro e música · 7" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -168,7 +178,7 @@ const caio = {
 </details>
 
 <details>
-<summary><b>🏢 &nbsp;Marcas & estúdios</b> &nbsp;·&nbsp; as empresas por trás dos projetos &nbsp;·&nbsp; <b>2</b></summary>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-marcas.jpg" alt="Marcas & estúdios — as empresas por trás dos projetos · 2" width="100%"/></summary>
 <br/>
 
 | Projeto | O que é | Code | Live |
@@ -178,26 +188,30 @@ const caio = {
 
 </details>
 
----
+</details>
 
-### ⚡ Atividade recente
+<details open>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-atividade.jpg" alt="Atividade recente — últimos commits, PRs e contribuições" width="100%"/></summary>
+<br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/caioross/CodeRacer/issues/4#issuecomment-5143793889) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-2. 🗣 Commented on [#34](https://github.com/caioross/CodeRacer/issues/34#issuecomment-5143789316) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-3. 🗣 Commented on [#108](https://github.com/caioross/CodeRacer/issues/108#issuecomment-5143771499) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-4. ℹ️ Labeled issue [#115](https://github.com/caioross/CodeRacer/issues/115) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-5. ℹ️ Labeled issue [#115](https://github.com/caioross/CodeRacer/issues/115) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-6. ℹ️ Labeled issue [#115](https://github.com/caioross/CodeRacer/issues/115) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-7. ❗ Opened issue [#115](https://github.com/caioross/CodeRacer/issues/115) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-8. ℹ️ Labeled issue [#114](https://github.com/caioross/CodeRacer/issues/114) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+1. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5137771274) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+2. 🎉 Merged PR [#64](https://github.com/caioross/NostalgiaGPT/pull/64) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+3. 🔒 Closed issue [#56](https://github.com/caioross/NostalgiaGPT/issues/56) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+4. 🗣 Commented on [#64](https://github.com/caioross/NostalgiaGPT/pull/64#issuecomment-5137765067) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+5. 🎉 Merged PR [#21](https://github.com/caioross/nebula/pull/21) in [caioross/nebula](https://github.com/caioross/nebula)
+6. 🔒 Closed issue [#20](https://github.com/caioross/nebula/issues/20) in [caioross/nebula](https://github.com/caioross/nebula)
+7. 🗣 Commented on [#1](https://github.com/caioross/PromptMeter/issues/1#issuecomment-5137600968) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+8. ℹ️ Labeled PR [#59](https://github.com/caioross/PromptMeter/pull/59) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
 
----
+</details>
 
-### 📊 Métricas
+<details open>
+<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-metricas.jpg" alt="Métricas — estatísticas, linguagens e impacto" width="100%"/></summary>
+<br/>
 
 <div align="center">
 
@@ -210,15 +224,11 @@ const caio = {
 
 <img width="98%" src="https://github-profile-trophy.vercel.app/?username=caioross&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=8"/>
 
-</div>
-
-<div align="center">
-
 <img width="98%" alt="snake" src="https://raw.githubusercontent.com/caioross/caioross/output/snake-dark.svg"/>
 
 </div>
 
----
+</details>
 
 <div align="center">
 
