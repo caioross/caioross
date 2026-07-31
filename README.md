@@ -15,7 +15,7 @@
 
 </div>
 
-<details open>
+<details>
 <summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-whoami.jpg" alt="whoami — desenvolvedor, instrutor, criador" width="100%"/></summary>
 <br/>
 
@@ -37,7 +37,7 @@ const caio = {
 
 </details>
 
-<details open>
+<details>
 <summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-arsenal.jpg" alt="Arsenal — tecnologias, linguagens e ferramentas" width="100%"/></summary>
 <br/>
 
@@ -50,7 +50,7 @@ const caio = {
 
 </details>
 
-<details open>
+<details>
 <summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-projetos.jpg" alt="Projetos — 56 projetos, 8 categorias, do conceito ao deploy" width="100%"/></summary>
 <br/>
 
@@ -190,7 +190,7 @@ const caio = {
 
 </details>
 
-<details open>
+<details>
 <summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-atividade.jpg" alt="Atividade recente — últimos commits, PRs e contribuições" width="100%"/></summary>
 <br/>
 
@@ -209,7 +209,7 @@ const caio = {
 
 </details>
 
-<details open>
+<details>
 <summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/sec-metricas.jpg" alt="Métricas — estatísticas, linguagens e impacto" width="100%"/></summary>
 <br/>
 
