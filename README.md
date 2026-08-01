@@ -73,7 +73,6 @@ const caio = {
 | **Trebuchet** | Framework para criar e orquestrar agentes de IA autônomos em hardware local | [⟨code⟩](https://github.com/caioross/Trebuchet) | — |
 | **AssetsMaker** | Pipeline local de assets de jogo — orquestra Claude/Ollama + ComfyUI | [⟨code⟩](https://github.com/caioross/AssetsMaker) | — |
 | **Nebula** | Uma superfície só, sem botões nem menus: você escreve, acontece | [⟨code⟩](https://github.com/caioross/nebula) | 🧪 |
-| **fishAi** | Central local que unifica IAs locais e cloud sob uma única API — fila, rotação de contas e métricas | 🔒 | 🧪 |
 | **NostalgiaGPT** | Converse com 40+ personalidades históricas | [⟨code⟩](https://github.com/caioross/NostalgiaGPT) | [🌐](https://nostalgia-gpt.vercel.app) |
 
 </details>
@@ -87,13 +86,11 @@ const caio = {
 | **Estúdio de Games Independente** | A vitrine única que reúne os jogos indie — TCG, metroidvania, city-builder, RTS e mais | — | [🌐](https://estudio-games-independente.vercel.app) |
 | **99 Crimes** | Detetive por mensagens: 99 contatos, 98 casos — resolva só conversando (Android) | 🔒 | [🌐](https://99crimes.vercel.app) |
 | **Astral Forge** | TCG single-player offline com arte própria (Android) | 🔒 | [🌐](https://astralforgeriseofobliviora.vercel.app) |
-| **RealCities** | City-builder low-poly (Unity) — distritos, trens e trânsito | 🔒 | [🌐](https://realcities.vercel.app) |
 | **88 Starlings** | Construção de naves modulares 3D + sistema solar em tempo real | 🔒 | [🌐](https://88starlings.vercel.app) |
 | **Guerra dos Formigueiros** | RTS/tower-defense de formigas com espécies reais | 🔒 | [🌐](https://guerra-dos-formigueiros.vercel.app) |
 | **Senet** | Jogo de tabuleiro do Egito Antigo (Android) | 🔒 | [🌐](https://senet-three.vercel.app) |
 | **Science Adventure** | Metroidvania 2D com cientistas históricos (Tesla & cia) — Phaser 3 | 🔒 | [🌐](https://scienceadventure.vercel.app) |
 | **ShoppingTrem** | Vendedor ambulante num trem em movimento: venda salgadinhos, fuja da segurança (Unity) | 🔒 | 🧪 |
-| **MyOffice** | Escritório 3D vivo em Unity onde agentes de IA trabalham, perambulam e pensam | 🔒 | 🧪 |
 | **FatimaGames** | Coletânea de jogos casuais e relaxantes para Android | [⟨code⟩](https://github.com/caioross/FatimaGames) | [🌐](https://fatimagames.vercel.app) |
 | **CodeRacer** | Corrida de digitação de código — escreva trechos e acelere | [⟨code⟩](https://github.com/caioross/CodeRacer) | [🌐](https://code-racer-three.vercel.app) |
 | **Gerador de Fotos** | Gera as 99 fotos de perfil de *99 Crimes* com FLUX.1-schnell via ComfyUI | 🔒 | [🌐](https://gerador-fotos-99crimes-site.vercel.app) |
@@ -123,29 +120,11 @@ const caio = {
 | Projeto | O que é | Code | Live |
 |---|---|:---:|:---:|
 | **SkillDepot** | Plataforma/registro de skills para agentes de IA | 🔒 | [🌐](https://www.skilldepot.dev) |
-| **skilldepot-go** | SDK oficial em Go do SkillDepot | [⟨code⟩](https://github.com/caioross/skilldepot-go) | — |
-| **Claude Skilldepot** | Conector MCP que leva o marketplace SkillDepot para dentro do Claude (OAuth 2.0) | 🔒 | — |
 | **PromptMeter** | Extensão Chrome que conta tokens e mostra o custo do prompt **antes** de enviar | [⟨code⟩](https://github.com/caioross/PromptMeter) | [🌐](https://prompt-meter.vercel.app) |
 | **Mecânica Smart** | SaaS para oficinas mecânicas — Next.js (web) + Expo (mobile) | 🔒 | [🌐](https://mecanica-smart.vercel.app) |
 | **MedPet** | App para tutores de pets — carteira de vacinas, lembretes e histórico | 🔒 | [🌐](https://med-pet.vercel.app) |
 | **AulaLogger** | App Android: grava, transcreve e analisa aulas com IA on-device | [⟨code⟩](https://github.com/caioross/AulaLogger) | [🌐](https://aula-logger.vercel.app) |
 | **ExcelPlayground** | FormulaLab — monte fórmulas de Excel num canvas e avalie de verdade | [⟨code⟩](https://github.com/caioross/ExcelPlayground) | [🌐](https://excel-playground-omega.vercel.app) |
-| **Zelar Dashboard** | Seu vault Obsidian vira um painel de comando da vida e do negócio | 🔒 | 🧪 |
-| **ProjetosMapper** | Centro de comando dos projetos — git ao vivo, saúde, roadmap e analytics numa tela só | 🔒 | 🧪 |
-| **Dreams** | Um Gantt de metas de vida que cabe num único arquivo HTML | 🔒 | 🧪 |
-
-</details>
-
-<details>
-<summary><img src="https://raw.githubusercontent.com/caioross/caioross/main/assets/banners/cat-infra.jpg" alt="Infra & automação — stacks self-hosted e workflows n8n · 4" width="100%"/></summary>
-<br/>
-
-| Projeto | O que é | Code | Live |
-|---|---|:---:|:---:|
-| **AI Stack** | ComfyUI · n8n · Ollama · Evolution · Postgres · Redis — sobe em um comando, tudo pesado fica no seu HD | 🔒 | — |
-| **modelos_padrao** | Modelos n8n + WhatsApp multi-agente | [⟨code⟩](https://github.com/caioross/modelos_padrao) | — |
-| **n8n_base** | Base self-hosted de n8n | [⟨code⟩](https://github.com/caioross/n8n_base) | — |
-| **n8n_Workflows** | Coleção de workflows n8n prontos | [⟨code⟩](https://github.com/caioross/n8n_Workflows) | — |
 
 </details>
 
@@ -169,10 +148,6 @@ const caio = {
 |---|---|:---:|:---:|
 | **python365** | 365 dias de Python — 1 script/dia + IDE no navegador (Pyodide) | [⟨code⟩](https://github.com/caioross/python365) | [🌐](https://python365.vercel.app) |
 | **PyPílulas** | Canal de Python diário — uma pílula por dia | 🔒 | [🌐](https://pypilulas.vercel.app) |
-| **python_clarify** | Material vivo das turmas de Python ao vivo | [⟨code⟩](https://github.com/caioross/python_clarify) | — |
-| **Maestria.IA** | Academia de IA aplicada ao trabalho — plataforma estilo Netflix + funil completo | 🔒 | 🧪 |
-| **Caminho da Corrente** | Livro: aprender como a água corre — sem represas, seguindo a curiosidade | 🔒 | 🧪 |
-| **Gato da Sorte** | Fantasia épica em curtas: um gato encapuzado, um baralho mágico e um dragão na cola | 🔒 | 🧪 |
 | **Cadeira Rosa** | Projeto musical lo-fi / synth-pop — álbuns, identidade visual e clipes | 🔒 | [🌐](https://cadeirarosa.vercel.app) |
 
 </details>
@@ -183,7 +158,6 @@ const caio = {
 
 | Projeto | O que é | Code | Live |
 |---|---|:---:|:---:|
-| **Open Worlds — Software Atelier** | Software sob medida construído à vista — live coding como modelo de negócio | 🔒 | 🧪 |
 | **Abre Mundos** | Showrooms, catálogos e treinamentos em VR via clonagem digital (Unreal 5) | 🔒 | 🧪 |
 
 </details>
