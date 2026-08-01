@@ -195,14 +195,14 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5148617437) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-2. 🔒 Closed issue [#60](https://github.com/caioross/NostalgiaGPT/issues/60) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-3. 🎉 Merged PR [#66](https://github.com/caioross/NostalgiaGPT/pull/66) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-4. 🔒 Closed issue [#44](https://github.com/caioross/NostalgiaGPT/issues/44) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-5. 🗣 Commented on [#66](https://github.com/caioross/NostalgiaGPT/pull/66#issuecomment-5148612845) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-6. 🎉 Merged PR [#22](https://github.com/caioross/nebula/pull/22) in [caioross/nebula](https://github.com/caioross/nebula)
-7. 🗣 Commented on [#1](https://github.com/caioross/PromptMeter/issues/1#issuecomment-5148426706) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
-8. 🎉 Merged PR [#62](https://github.com/caioross/PromptMeter/pull/62) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+1. 🗣 Commented on [#1](https://github.com/caioross/PromptMeter/issues/1#issuecomment-5151477782) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+2. ℹ️ Labeled issue [#64](https://github.com/caioross/PromptMeter/issues/64) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+3. ℹ️ Labeled issue [#64](https://github.com/caioross/PromptMeter/issues/64) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+4. ℹ️ Labeled issue [#64](https://github.com/caioross/PromptMeter/issues/64) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+5. ❗ Opened issue [#64](https://github.com/caioross/PromptMeter/issues/64) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+6. ℹ️ Labeled issue [#63](https://github.com/caioross/PromptMeter/issues/63) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+7. ℹ️ Labeled issue [#63](https://github.com/caioross/PromptMeter/issues/63) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+8. ❗ Opened issue [#63](https://github.com/caioross/PromptMeter/issues/63) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
