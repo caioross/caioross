@@ -169,14 +169,14 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5198984949) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-2. 🎉 Merged PR [#80](https://github.com/caioross/NostalgiaGPT/pull/80) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-3. 🔒 Closed issue [#77](https://github.com/caioross/NostalgiaGPT/issues/77) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-4. 🗣 Commented on [#80](https://github.com/caioross/NostalgiaGPT/pull/80#issuecomment-5198979162) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-5. ℹ️ Labeled issue [#25](https://github.com/caioross/nebula/issues/25) in [caioross/nebula](https://github.com/caioross/nebula)
-6. ❗ Opened issue [#25](https://github.com/caioross/nebula/issues/25) in [caioross/nebula](https://github.com/caioross/nebula)
-7. 🗣 Commented on [#1](https://github.com/caioross/PromptMeter/issues/1#issuecomment-5198743178) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
-8. 🔒 Closed issue [#69](https://github.com/caioross/PromptMeter/issues/69) in [caioross/PromptMeter](https://github.com/caioross/PromptMeter)
+1. 🗣 Commented on [#4](https://github.com/caioross/CodeRacer/issues/4#issuecomment-5205796485) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+2. ℹ️ Labeled issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+3. ℹ️ Labeled issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+4. ❗ Opened issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+5. ℹ️ Labeled issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+6. ℹ️ Labeled issue [#134](https://github.com/caioross/CodeRacer/issues/134) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+7. ℹ️ Labeled issue [#134](https://github.com/caioross/CodeRacer/issues/134) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+8. ℹ️ Labeled issue [#134](https://github.com/caioross/CodeRacer/issues/134) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
