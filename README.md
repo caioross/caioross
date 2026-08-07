@@ -169,14 +169,14 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/caioross/CodeRacer/issues/4#issuecomment-5205796485) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-2. ℹ️ Labeled issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-3. ℹ️ Labeled issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-4. ❗ Opened issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-5. ℹ️ Labeled issue [#135](https://github.com/caioross/CodeRacer/issues/135) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-6. ℹ️ Labeled issue [#134](https://github.com/caioross/CodeRacer/issues/134) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-7. ℹ️ Labeled issue [#134](https://github.com/caioross/CodeRacer/issues/134) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-8. ℹ️ Labeled issue [#134](https://github.com/caioross/CodeRacer/issues/134) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+1. 🗣 Commented on [#3](https://github.com/caioross/Laguna_Translate/issues/3#issuecomment-5207313353) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+2. 🗣 Commented on [#73](https://github.com/caioross/Laguna_Translate/pull/73#issuecomment-5207312503) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+3. 🗣 Commented on [#3](https://github.com/caioross/Laguna_Translate/issues/3#issuecomment-5207129083) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+4. 🗣 Commented on [#47](https://github.com/caioross/Laguna_Translate/issues/47#issuecomment-5207125653) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+5. ℹ️ Unlabeled issue [#47](https://github.com/caioross/Laguna_Translate/issues/47) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+6. 💪 Opened PR [#73](https://github.com/caioross/Laguna_Translate/pull/73) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+7. ℹ️ Labeled issue [#47](https://github.com/caioross/Laguna_Translate/issues/47) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+8. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5206958796) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
