@@ -175,8 +175,8 @@ const caio = {
 4. 🗣 Commented on [#47](https://github.com/caioross/Laguna_Translate/issues/47#issuecomment-5207125653) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
 5. ℹ️ Unlabeled issue [#47](https://github.com/caioross/Laguna_Translate/issues/47) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
 6. 💪 Opened PR [#73](https://github.com/caioross/Laguna_Translate/pull/73) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-7. ℹ️ Labeled issue [#47](https://github.com/caioross/Laguna_Translate/issues/47) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-8. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5206958796) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+7. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5206958796) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+8. ❗ Opened issue [#82](https://github.com/caioross/NostalgiaGPT/issues/82) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
