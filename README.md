@@ -169,9 +169,9 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/caioross/Laguna_Translate/issues/3#issuecomment-5207313353) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-2. 🗣 Commented on [#73](https://github.com/caioross/Laguna_Translate/pull/73#issuecomment-5207312503) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-3. 🗣 Commented on [#3](https://github.com/caioross/Laguna_Translate/issues/3#issuecomment-5207129083) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
+1. ❗ Opened issue [#3](https://github.com/caioross/nitro-dashboards-alcool/issues/3) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+2. ❗ Opened issue [#2](https://github.com/caioross/nitro-dashboards-alcool/issues/2) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+3. ❗ Opened issue [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
 4. 🗣 Commented on [#47](https://github.com/caioross/Laguna_Translate/issues/47#issuecomment-5207125653) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
 5. ℹ️ Unlabeled issue [#47](https://github.com/caioross/Laguna_Translate/issues/47) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
 6. 💪 Opened PR [#73](https://github.com/caioross/Laguna_Translate/pull/73) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
