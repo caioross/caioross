@@ -169,14 +169,14 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/caioross/nitro-dashboards-alcool/issues/3) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-2. ❗ Opened issue [#2](https://github.com/caioross/nitro-dashboards-alcool/issues/2) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-3. ❗ Opened issue [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-4. 🗣 Commented on [#47](https://github.com/caioross/Laguna_Translate/issues/47#issuecomment-5207125653) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-5. ℹ️ Unlabeled issue [#47](https://github.com/caioross/Laguna_Translate/issues/47) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-6. 💪 Opened PR [#73](https://github.com/caioross/Laguna_Translate/pull/73) in [caioross/Laguna_Translate](https://github.com/caioross/Laguna_Translate)
-7. 🗣 Commented on [#7](https://github.com/caioross/NostalgiaGPT/issues/7#issuecomment-5206958796) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
-8. ❗ Opened issue [#82](https://github.com/caioross/NostalgiaGPT/issues/82) in [caioross/NostalgiaGPT](https://github.com/caioross/NostalgiaGPT)
+1. 🔒 Closed issue [#2](https://github.com/caioross/nitro-dashboards-alcool/issues/2) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+2. 🗣 Commented on [#2](https://github.com/caioross/nitro-dashboards-alcool/issues/2#issuecomment-5603488638) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+3. 💪 Opened PR [#14](https://github.com/caioross/nitro-dashboards-alcool/pull/14) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+4. 🗣 Commented on [#8](https://github.com/caioross/nitro-dashboards-alcool/issues/8#issuecomment-5603482990) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+5. ℹ️ Labeled issue [#13](https://github.com/caioross/nitro-dashboards-alcool/issues/13) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+6. ❗ Opened issue [#13](https://github.com/caioross/nitro-dashboards-alcool/issues/13) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+7. 🔒 Closed issue [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+8. 🗣 Commented on [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1#issuecomment-5603444936) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
