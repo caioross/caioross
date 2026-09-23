@@ -169,10 +169,10 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/caioross/nitro-dashboards-alcool/issues/2) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-2. 🗣 Commented on [#2](https://github.com/caioross/nitro-dashboards-alcool/issues/2#issuecomment-5603488638) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-3. 💪 Opened PR [#14](https://github.com/caioross/nitro-dashboards-alcool/pull/14) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-4. 🗣 Commented on [#8](https://github.com/caioross/nitro-dashboards-alcool/issues/8#issuecomment-5603482990) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+1. 🎉 Merged PR [#137](https://github.com/caioross/CodeRacer/pull/137) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+2. 💪 Opened PR [#137](https://github.com/caioross/CodeRacer/pull/137) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+3. 🎉 Merged PR [#136](https://github.com/caioross/CodeRacer/pull/136) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+4. 💪 Opened PR [#136](https://github.com/caioross/CodeRacer/pull/136) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
 5. ℹ️ Labeled issue [#13](https://github.com/caioross/nitro-dashboards-alcool/issues/13) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
 6. ❗ Opened issue [#13](https://github.com/caioross/nitro-dashboards-alcool/issues/13) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
 7. 🔒 Closed issue [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
