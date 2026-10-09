@@ -169,14 +169,14 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#137](https://github.com/caioross/CodeRacer/pull/137) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-2. 💪 Opened PR [#137](https://github.com/caioross/CodeRacer/pull/137) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-3. 🎉 Merged PR [#136](https://github.com/caioross/CodeRacer/pull/136) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-4. 💪 Opened PR [#136](https://github.com/caioross/CodeRacer/pull/136) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
-5. ℹ️ Labeled issue [#13](https://github.com/caioross/nitro-dashboards-alcool/issues/13) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-6. ❗ Opened issue [#13](https://github.com/caioross/nitro-dashboards-alcool/issues/13) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-7. 🔒 Closed issue [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
-8. 🗣 Commented on [#1](https://github.com/caioross/nitro-dashboards-alcool/issues/1#issuecomment-5603444936) in [caioross/nitro-dashboards-alcool](https://github.com/caioross/nitro-dashboards-alcool)
+1. 🎉 Merged PR [#3](https://github.com/caioross/perfin_02/pull/3) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+2. 🔒 Closed issue [#2](https://github.com/caioross/perfin_02/issues/2) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+3. 💪 Opened PR [#5](https://github.com/caioross/perfin_02/pull/5) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+4. ❗ Opened issue [#4](https://github.com/caioross/perfin_02/issues/4) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+5. 💪 Opened PR [#3](https://github.com/caioross/perfin_02/pull/3) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+6. ❗ Opened issue [#2](https://github.com/caioross/perfin_02/issues/2) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+7. 🎉 Merged PR [#137](https://github.com/caioross/CodeRacer/pull/137) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
+8. 💪 Opened PR [#137](https://github.com/caioross/CodeRacer/pull/137) in [caioross/CodeRacer](https://github.com/caioross/CodeRacer)
 <!--END_SECTION:activity-->
 
 <sub>Seção atualizada automaticamente por GitHub Actions, a cada 12h.</sub>
