@@ -169,9 +169,9 @@ const caio = {
 <br/>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/caioross/perfin_02/pull/3) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
-2. 🔒 Closed issue [#2](https://github.com/caioross/perfin_02/issues/2) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
-3. 💪 Opened PR [#5](https://github.com/caioross/perfin_02/pull/5) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
+1. ❗ Opened issue [#1](https://github.com/nikarlsefni/Curso_Python/issues/1) in [nikarlsefni/Curso_Python](https://github.com/nikarlsefni/Curso_Python)
+2. ❗ Opened issue [#1](https://github.com/ValaTres/Curso_Python/issues/1) in [ValaTres/Curso_Python](https://github.com/ValaTres/Curso_Python)
+3. ❗ Opened issue [#1](https://github.com/Rafa-7-Dev/Curso_PythonData/issues/1) in [Rafa-7-Dev/Curso_PythonData](https://github.com/Rafa-7-Dev/Curso_PythonData)
 4. ❗ Opened issue [#4](https://github.com/caioross/perfin_02/issues/4) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
 5. 💪 Opened PR [#3](https://github.com/caioross/perfin_02/pull/3) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
 6. ❗ Opened issue [#2](https://github.com/caioross/perfin_02/issues/2) in [caioross/perfin_02](https://github.com/caioross/perfin_02)
